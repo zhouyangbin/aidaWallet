@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\99cdb8e66b958b29cf82acf3628db0b4\\transformed\\appcompat-1.3.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "19",
+                        "endColumns": "13",
+                        "endOffsets": "959"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\c7253e7eaf5769c54b1ddb978e2f56bc\\transformed\\jetified-passbase_sdk-2.7.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,149,195,250,297,338,391,441,489,545,589,634",
+                        "endColumns": "45,47,45,54,46,40,52,49,47,55,43,44,52",
+                        "endOffsets": "96,144,190,245,292,333,386,436,484,540,584,629,682"
+                    }
+                }
+            ]
+        }
+    ]
+}

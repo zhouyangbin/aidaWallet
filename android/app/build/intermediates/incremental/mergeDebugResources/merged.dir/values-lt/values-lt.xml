@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="COVID_VACCINATION_CARD">"„Covid“ skiepijimo kortelė"</string>
+    <string name="DRIVERS_LICENSE">"Vairuotojo pažymėjimas"</string>
+    <string name="HEALTH_INSURANCE_CARD">"Sveikatos draudimas"</string>
+    <string name="HEALTH_INSURANCE_CARD_US">"Sveikatos draudimas"</string>
+    <string name="NATIONAL_ID_CARD">"Asmens tapatybės kortelė"</string>
+    <string name="PASSPORT">"Pasas"</string>
+    <string name="PROOF_OF_ADDRESS">"Adreso patvirtinimas"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eiti į pagrindinį puslapį"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Naršyti aukštyn"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Daugiau parinkčių"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Atlikta"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Žr. viską"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pasirinkite programą"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IŠJUNGTI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ĮJUNGTI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"„Alt“ +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"„Ctrl“ +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"„delete“"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"„enter“"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"„Function“ +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"„Meta“ +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"„Shift“ +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"„space“"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"„Sym“ +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"„Menu“ +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Ieškoti…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Išvalyti užklausą"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Paieškos užklausa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Ieškoti"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pateikti užklausą"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Paieška balsu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bendrinti su"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant programą „<ns1:g id="APPLICATION_NAME">%s</ns1:g>“"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sutraukti"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Pagalbos pranešimo sritis"</string>
+    <string name="agreeToTerms">"Sutikite su sąlygomis"</string>
+    <string name="back">"galinę"</string>
+    <string name="bulletCovidVaccinationCardVisible">"Nuotrauka jūsų CDC vakcinacijos įrašų kortelėje yra matoma."</string>
+    <string name="bulletDocumentVisible">"Matomas visas dokumentas."</string>
+    <string name="bulletDriversLicenseVisible">"Jūsų vairuotojo pažymėjimo nuotrauka yra matoma."</string>
+    <string name="bulletHealthInsuranceVisible">"Nuotrauka jūsų sveikatos draudimo kortelėje yra matoma"</string>
+    <string name="bulletNationalIDVisible">"Jūsų asmens tapatybės kortelėje esanti nuotrauka yra matoma."</string>
+    <string name="bulletPassportVisible">"Paso nuotrauka yra matoma."</string>
+    <string name="bulletProofOfAddressVisible">"Nuotrauka, esanti jūsų adreso patvirtinime, yra matoma."</string>
+    <string name="bulletReadable">"Informacija apie jūsų {documentType} yra lengvai įskaitoma."</string>
+    <string name="cameraPermissions">"Įgalinkite kamerą, kad galėtumėte tęsti."</string>
+    <string name="cameraPermissionsErrorMobile">"Norėdami tęsti patvirtinimą, turime pasiekti jūsų kamerą.
+Įsitikinkite, kad suteikėte prieigą, ir spustelėkite Bandyti dar kartą."</string>
+    <string name="cancel">"Taip, atšaukti"</string>
+    <string name="challengeFarDistancePrompt">"Rėmelio viduje atitolkite veidą"</string>
+    <string name="challengeFinishSuccess">"Šauniai padirbėta!"</string>
+    <string name="challengeHintInitialization">"Pasiruoškite iššūkiui"</string>
+    <string name="challengeHintPendingNoFace">"Neaptiktas joks veidas"</string>
+    <string name="challengeHintPendingOffDownd">"Tiesiog šiek tiek aukštyn"</string>
+    <string name="challengeHintPendingOffLeft">"Šiek tiek į dešinę"</string>
+    <string name="challengeHintPendingOffRight">"Šiek tiek į kairę"</string>
+    <string name="challengeHintPendingOffUp">"Tik šiek tiek žemyn"</string>
+    <string name="challengeHintPendingTooClose">"Pasitraukite toliau"</string>
+    <string name="challengeHintPendingTooFar">"Priartėkite arčiau"</string>
+    <string name="challengeHintValidatedSuccessFrst">"Dar vienas iššūkis"</string>
+    <string name="challengeHintValidatedSuccessLast">"Štai ir viskas!"</string>
+    <string name="challengeHintValidation">"Patvirtinimas"</string>
+    <string name="challengeInitializer">"Nukreipkite savo veidą į apskritimą"</string>
+    <string name="challengeInstructionInitialization">"Puiku, pradėkime"</string>
+    <string name="challengeInstructionPending">"Suderinkite apskritimus"</string>
+    <string name="challengeInstructionTimeout">"Pasibaigęs laikas"</string>
+    <string name="challengeInstructionValidatedSuccess">"Puikiai atlikta!"</string>
+    <string name="challengeInstructionValidation">"Puiku, palaukite"</string>
+    <string name="challengeStartPromt">"Perkelkite savo veidą arčiau rėmo vidaus"</string>
+    <string name="challengeStartSuccess">"Puiku, pradėkime"</string>
+    <string name="challengeTimeout">"Baigėsi laikas. Prašau, pabandykite dar kartą"</string>
+    <string name="challengeValidation">"Puiku, palaikykite porą sekundžių"</string>
+    <string name="close">"Uždaryti"</string>
+    <string name="closeStepSubtitle">"Tai gali turėti įtakos jūsų galimybei pasiekti paslaugą. Ar tikrai norite tai padaryti?"</string>
+    <string name="closeStepTitle">"Atšaukti patvirtinimą?"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Įgalinti"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ neveiks, jei neįgalinsite „Google Play“ paslaugų."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Įgalinkite „Google Play“ paslaugas"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Įdiegti"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Programa „<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Gaukite „Google Play“ paslaugas"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"„Google Play“ paslaugų pasiekiamumas"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"„Google Play“ paslaugų klaida"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Naudojant programą „<ns1:g id="APP_NAME">%1$s</ns1:g>“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Programa „<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atnaujinti"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Atnaujinkite „Google Play“ paslaugas"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Reikia naujos versijos „Google Play“ paslaugų. Jos netrukus bus atnaujintos."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Atidaryti telefone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prisijungti"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prisijungti naudojant „Google“"</string>
+    <string name="confirm">"Taip, patvirtinti"</string>
+    <string name="confirmButton">"Patvirtinti"</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Naudoti slaptažodį"</string>
+    <string name="consentBulletLight">"Užtikrinkite gerą apšvietimą fotografavimui"</string>
+    <string name="consentOr">"arba"</string>
+    <string name="consentSecurityFooter">"Spustelėdami „Tęsti“ sutinkate su Passbase &lt;terms>naudojimo sąlygomis &lt;/terms> ir mūsų &lt;privacy>privatumo politika&lt;/privacy>. Jūs taip pat sutinkate, kad suteikiate teisę „Passbase“ dalytis pateikta informacija su {organization}. Jūsų asmeninei informacijai taip pat bus taikoma {organization} privatumo politika, o „Passbase“ neatsako už tai, kad {organization} tvarko jūsų asmeninę informaciją."</string>
+    <string name="consentTitle">"Pasiruoškite patvirtinimui"</string>
+    <string name="continueButton">"Tęsti"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Nuoroda nukopijuota į iškarpinę"</string>
+    <string name="countriesCount">"224 ŠALYS PAGAL ABĖCĖLĘ"</string>
+    <string name="countrySelectionSubtitle">"Išskleidžiamajame sąraše pasirinkite šalį."</string>
+    <string name="countrySelectionTitle">"Iš kurios šalies yra jūsų dokumentas?"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Nežinoma klaida"</string>
+    <string name="demoUiMode">"DEMO UI MODE"</string>
+    <string name="docsList">"Gaukite pasą, vairuotojo pažymėjimą arba nacionalinę asmens tapatybės kortelę"</string>
+    <string name="driversLicenseCheck">"Vairuotojo pažymėjimas"</string>
+    <string name="emailErrorMessage">"Prašome įvesti galiojantį elektroninio pašto adresą."</string>
+    <string name="emailPlaceholder">"tcaovmo@email.com"</string>
+    <string name="error">"Klaida"</string>
+    <string name="faceChallengeEmailSubtitle">"Jei ne, galite pradėti iš naujo įvesti teisingą el. Pašto adresą"</string>
+    <string name="faceChallengeEmailTitle">"{email} yra jūsų el. paštas?"</string>
+    <string name="faceChallengeRetryFailedTitle">"Nepavyko autentifikuoti"</string>
+    <string name="faceChallengeRetrySubtitle">"Spustelėkite dar kartą ir įsitikinkite, kad jūsų veidas yra gerai apšviestas."</string>
+    <string name="faceChallengeRetryTitle">"Mes negalėjome jūsų autentifikuoti."</string>
+    <string name="faceVerificationExplanationSubtitleZoom">"Padėkite sau gerą apšvietimą ir sekite instrukcijas kitame ekrane"</string>
+    <string name="faceVerificationExplanationTitleZoom">"Pasiruoškite savo asmenukės vaizdo įrašui"</string>
+    <string name="facetec_liveness_passed">"Veido atpažinimas pavyko"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopijuoti nuorodą"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Atidaryti naršyklėje"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bendrinti nuorodą"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Palieskite piršto antspaudo jutiklį"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Piršto antspaudo aparatinė įranga nepasiekiama."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"Šiame įrenginyje nėra piršto antspaudo jutiklio"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Per daug bandymų. Vėliau bandykite dar kartą."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Neužregistruota jokių kontrolinių kodų."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Piršto antspaudo operaciją atšaukė naudotojas."</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Neatpažinta"</string>
+    <string name="finish">"Pabaigti"</string>
+    <string name="finishedSubtitle">"Ačiū. Dabar apdorojame jūsų patvirtinimą."</string>
+    <string name="finishedTitle">"Patvirtinimas pateiktas"</string>
+    <string name="front">"priekinę"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Autentifikavimą atšaukė naudotojas."</string>
+    <string name="goBack">"Ne, grįžkite atgal"</string>
+    <string name="identificationChoiceSubtitle">"Išskleidžiamajame sąraše pasirinkite dokumento tipą."</string>
+    <string name="identificationChoiceTitle">"Kurį dokumentą nuskaitysite?"</string>
+    <string name="livenessFailedSubtitle">"(1) Įsitikinkite, kad jūsų veidas yra pakankamai ir tolygiai apšviestas. (2) Nuimkite kliūtis, pavyzdžiui, kepures, akinius nuo saulės ar ausines.
+gyvybingumas"</string>
+    <string name="livenessFailedTitle">"Nepavyko jūsų patvirtinti."</string>
+    <string name="loggedIn">"Jūs esate patvirtintas"</string>
+    <string name="loginSubtitle">"Turėsite galimybę stebėti, kas turi prieigą prie jūsų tapatybės informacijos."</string>
+    <string name="loginTitle">"Įveskite savo el. paštą"</string>
+    <string name="mb_help_button">"Reikia pagalbos? Paspauskite čia."</string>
+    <string name="nationalIdCheck">"Asmens tapatybės kortelė"</string>
+    <string name="nationalityMessage">"Parinkite savo tautybę"</string>
+    <string name="networkError">"Kažkas nepavyko."</string>
+    <string name="not_accepted">"(nepriimtas)"</string>
+    <string name="not_available">"(nepasiekiamas)"</string>
+    <string name="ok">"OK"</string>
+    <string name="outOfCreditsMobile">"Your account is out of credits."</string>
+    <string name="passportCheck">"Pasas"</string>
+    <string name="passportVerificationExplanationSubtitle">"Atidarykite asmeninės informacijos puslapį ir eikite į kitą ekraną."</string>
+    <string name="passportVerificationExplanationTitle">"Pasiruoškite nuskaityti savo pasą"</string>
+    <string name="pictureUserConfirmationTitle">"Ar galite patvirtinti tai?"</string>
+    <string name="prepareCovidVaccinationCard">"Pasiruoškite nuskaityti CDC vakcinacijos įrašų kortelės priekį"</string>
+    <string name="prepareDriversLicenseBack">"Pasiruoškite nuskaityti vairuotojo pažymėjimo galą"</string>
+    <string name="prepareDriversLicenseFront">"Pasiruoškite nuskaityti vairuotojo pažymėjimo priekį"</string>
+    <string name="prepareHealthInsuranceBack">"Pasiruoškite nuskaityti sveikatos draudimo kortelės galą"</string>
+    <string name="prepareHealthInsuranceFront">"Pasiruoškite nuskaityti sveikatos draudimo kortelės priekį"</string>
+    <string name="prepareNationalIDBack">"Pasiruoškite nuskaityti nacionalinę asmens tapatybės kortelės galą"</string>
+    <string name="prepareNationalIDFront">"Pasiruoškite nuskaityti nacionalinės tapatybės kortelės priekį"</string>
+    <string name="preparePassport">"Pasiruoškite nuskaityti savo pasą"</string>
+    <string name="prepareProofOfAddress">"Pasiruoškite nuskaityti adreso įrodymą"</string>
+    <string name="redo">"Ne, bandykite dar kartą"</string>
+    <string name="retryFaceChallengeCta">"Bandykite dar kartą"</string>
+    <string name="retryFaceChallengeEmailCta">"Taip, bandykite dar kartą"</string>
+    <string name="retryFaceChallengeRedoEmailCta">"Ne, įveskite dar kartą"</string>
+    <string name="reuseResourceInfoText">"Pasirinkę aukščiau nurodytą (-us) tapatybės šaltinį (-ius), galėsite sutrumpinti procesą. Jei reikia, gali tekti paruošti papildomus dokumentus."</string>
+    <string name="reuseResourceSecondTitle">"Dalytis esamais asmens dokumentais"</string>
+    <string name="reuseResourceTitle">"Sveiki sugrįžę. Norėdami paspartinti procesą, bendrinkite anksčiau įkeltus dokumentus"</string>
+    <string name="reuseResourceTooltip">"Anksčiau bendrinote šį asmens dokumentą, kurį dabar galima pakartotinai naudoti siekiant paspartinti patvirtinimo procesą."</string>
+    <string name="scanCovidVaccinationCard">"Nuskaitykite CDC vakcinacijos kortelės priekinę dalį"</string>
+    <string name="scanDriversLicenseBack">"Nuskaitykite vairuotojo pažymėjimo galinę dalį"</string>
+    <string name="scanDriversLicenseFront">"Nuskaitykite vairuotojo pažymėjimo priekinę dalį"</string>
+    <string name="scanHealthInsuranceBack">"Nuskaitykite sveikatos draudimo kortelės nugarėlę"</string>
+    <string name="scanHealthInsuranceFront">"Nuskaitykite sveikatos draudimo kortelės priekinę dalį"</string>
+    <string name="scanNationalIDBack">"Nuskaitykite nacionalinės tapatybės kortelės galinę dalį"</string>
+    <string name="scanNationalIDFront">"Nuskaitykite nacionalinės tapatybės kortelės priekinę dalį"</string>
+    <string name="scanPassport">"Nuskaitykite savo pasą"</string>
+    <string name="scanProofOfAddress">"Nuskaitykite adreso įrodymą"</string>
+    <string name="scanToolTip">"Nuskaitykite savo dokumentą"</string>
+    <string name="scan_manually_button">"Nuskaitykite rankiniu būdu"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Ieškoti"</string>
+    <string name="securedBy">"užtikrintas"</string>
+    <string name="session_expired">"Your authentication session has expired, please start over again."</string>
+    <string name="start">"Pradėti"</string>
+    <string name="startInfoExplanationSubtitle">"Mes padėsime jums atlikti paprastą jūsų tapatybės patvirtinimo procesą."</string>
+    <string name="startInfoExplanationTitle">"Pradėti patvirtinimą"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="summaryDocument">"%@ Dokumentas"</string>
+    <string name="summaryEmail">"El. pašto adresas"</string>
+    <string name="summaryLocation">"Dabartinė buvimo vieta"</string>
+    <string name="summarySelfieVideo">"Įrašykite savo video"</string>
+    <string name="summaryTitle">"Saugiai perduokite savo duomenis"</string>
+    <string name="tooltipAdditionalDocument">"Šiame dokumente tikrintojui pateikiama papildoma informacija, skirta praturtinti konkrečius jūsų tapatybės duomenų taškus."</string>
+    <string name="tooltipDocument">"Jūsų asmens dokumentas naudojamas užtikrinti, ar esate, kas sakote esą."</string>
+    <string name="tooltipEmail">"Jūsų el. paštas naudojamas, kad galėtume jums atsiųsti kvitą ir kad jūs galėtumėte stebėti, kad turi priėjimą prie jūsų duomenų."</string>
+    <string name="tooltipLocation">"Jūsų buvimo vieta naudojama norint nustatyti bet kokius galimus neteisėtus veiksmus ir apsaugoti jūsų paskyrą."</string>
+    <string name="tooltipSelfieVideo">"Jūsų video įrašas naudojamas užtikrinti, kad tai tikrai jūs ir niekas kitas neapsimeta jumis. Įrašas taip pat bus palyginimas su nuotrauka jūsų asmens tapatybės dokumente."</string>
+    <string name="tryAgain">"Bandykite dar kartą"</string>
+    <string name="turnCovidVaccinationCard">"Pasukite į priekį savo CDC vakcinacijos kortelės ir tęskite kitą ekraną."</string>
+    <string name="turnDriversLicenseBack">"Pasukite į vairuotojo pažymėjimo galą ir tęskite kitame ekrane."</string>
+    <string name="turnDriversLicenseFront">"Pasukite į vairuotojo pažymėjimo priekį ir tęskite kitame ekrane."</string>
+    <string name="turnHealthInsuranceBack">"Pasukite į savo sveikatos draudimo kortelės galą ir tęskite kitame ekrane."</string>
+    <string name="turnHealthInsuranceFront">"Pasukite į savo sveikatos draudimo kortelės priekį ir tęskite kitame ekrane."</string>
+    <string name="turnNationalIDBack">"Pasukite į savo nacionalinės tapatybės kortelės galą ir tęskite kitame ekrane."</string>
+    <string name="turnNationalIDFront">"Pasukite į savo nacionalinės tapatybės kortelės priekį ir tęskite kitame ekrane."</string>
+    <string name="turnPassport">"Atidarykite asmeninės informacijos puslapį ir tęskite kitame ekrane."</string>
+    <string name="turnProofOfAddress">"Pasukite į adreso įrodymo dokumento priekį ir tęskite kitame ekrane."</string>
+    <string name="type_country">"Įrašyti šalį"</string>
+    <string name="uploadFailed">"Įkelti nepavyko"</string>
+    <string name="uploaded">"įkelta"</string>
+    <string name="verifyMe">"Patvirtinkite mane"</string>
+    <string name="yd_tip_close">uždarymas</string>
+    <string name="yd_tip_init_timeout">Baigėsi inicijavimo skirtasis laikas, spustelėkite Bandyti dar kartą</string>
+    <string name="yd_tip_load_failed">Nepavyko įkelti, spustelėkite ir bandykite dar kartą</string>
+    <string name="yd_tip_loading">Protingas aptikimas</string>
+    <string name="yd_tip_no_network">Tinklas yra nenormalus, patikrinkite tinklą ir bandykite dar kartą</string>
+    <string name="yd_tip_validate_timeout">Baigėsi autentifikavimo laikas, uždarykite ir patikrinkite tinklą</string>
+</resources>

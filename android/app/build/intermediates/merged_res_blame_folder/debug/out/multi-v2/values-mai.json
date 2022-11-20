@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mai\\values-mai.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\6195ee4063345c4251082572c57b9abd\\transformed\\jetified-captcha-3.4.0.1\\res\\values-mai\\values-mai.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,104,198,278,345,450",
+                        "endColumns": "48,93,79,66,104,108",
+                        "endOffsets": "99,193,273,340,445,554"
+                    }
+                }
+            ]
+        }
+    ]
+}

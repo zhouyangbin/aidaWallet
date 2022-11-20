@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yd_tip_close">शट डाउन</string>
+    <string name="yd_tip_init_timeout">प्रारंभिक का समय समाप्त ，क्लिक करें भार टेस्ट</string>
+    <string name="yd_tip_load_failed">भार असफलता ,क्लिक करें भार टेस्ट</string>
+    <string name="yd_tip_loading">बुद्धिमान पता लगाना में</string>
+    <string name="yd_tip_no_network">इंटरनेट असामान्य ，कृपया का निरीक्षण इंटरनेट रियर भार टेस्ट</string>
+    <string name="yd_tip_validate_timeout">सत्यापन समय समाप्त ，कृपया शट डाउन और का निरीक्षण इंटरनेट</string>
+</resources>

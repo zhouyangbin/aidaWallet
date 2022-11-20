@@ -1,0 +1,128 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\6195ee4063345c4251082572c57b9abd\\transformed\\jetified-captcha-3.4.0.1\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,104,200,297,356,483",
+                        "endColumns": "48,95,96,58,126,121",
+                        "endOffsets": "99,195,292,351,478,600"
+                    },
+                    "to": {
+                        "startLines": "64,65,66,67,68,69",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "7576,7625,7721,7818,7877,8004",
+                        "endColumns": "48,95,96,58,126,121",
+                        "endOffsets": "7620,7716,7813,7872,7999,8121"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\5efa136d6b7a2c594211658eacead3c1\\transformed\\core-1.6.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "63",
+                        "startColumns": "4",
+                        "startOffsets": "7475",
+                        "endColumns": "100",
+                        "endOffsets": "7571"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\99cdb8e66b958b29cf82acf3628db0b4\\transformed\\appcompat-1.3.1\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,331,444,532,639,765,843,919,1010,1103,1198,1292,1392,1485,1580,1674,1765,1856,1938,2054,2164,2263,2376,2481,2595,2759,2859",
+                        "endColumns": "113,111,112,87,106,125,77,75,90,92,94,93,99,92,94,93,90,90,81,115,109,98,112,104,113,163,99,82",
+                        "endOffsets": "214,326,439,527,634,760,838,914,1005,1098,1193,1287,1387,1480,1575,1669,1760,1851,1933,2049,2159,2258,2371,2476,2590,2754,2854,2937"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,62",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,331,444,532,639,765,843,919,1010,1103,1198,1292,1392,1485,1580,1674,1765,1856,1938,2054,2164,2263,2376,2481,2595,2759,7392",
+                        "endColumns": "113,111,112,87,106,125,77,75,90,92,94,93,99,92,94,93,90,90,81,115,109,98,112,104,113,163,99,82",
+                        "endOffsets": "214,326,439,527,634,760,838,914,1005,1098,1193,1287,1387,1480,1575,1669,1760,1851,1933,2049,2159,2258,2371,2476,2590,2754,2854,7470"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\dae511b76fc5abe0b43b7dfd722fa90e\\transformed\\jetified-play-services-base-17.6.0\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,354,556,687,800,1002,1129,1263,1387,1596,1707,1898,2031,2235,2418,2513,2602",
+                        "endColumns": "108,201,130,112,201,126,133,123,208,110,190,132,203,182,94,88,109",
+                        "endOffsets": "353,555,686,799,1001,1128,1262,1386,1595,1706,1897,2030,2234,2417,2512,2601,2711"
+                    },
+                    "to": {
+                        "startLines": "30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2978,3091,3293,3428,3545,3747,3878,4016,4359,4568,4683,4874,5011,5215,5402,5501,5594",
+                        "endColumns": "112,201,134,116,201,130,137,127,208,114,190,136,203,186,98,92,113",
+                        "endOffsets": "3086,3288,3423,3540,3742,3873,4011,4139,4563,4678,4869,5006,5210,5397,5496,5589,5703"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\642f5e8b1a39add38a1d5b024bce912c\\transformed\\browser-1.3.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,169,269,385",
+                        "endColumns": "113,99,115,100",
+                        "endOffsets": "164,264,380,481"
+                    },
+                    "to": {
+                        "startLines": "49,51,52,53",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5817,6019,6119,6235",
+                        "endColumns": "113,99,115,100",
+                        "endOffsets": "5926,6114,6230,6331"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\6fe2c6813f49ded38c90372f315a6bbe\\transformed\\biometric-1.0.1\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,174,283,371,502,636,776,910,1047,1199,1299",
+                        "endColumns": "118,108,87,130,133,139,133,136,151,99,127",
+                        "endOffsets": "169,278,366,497,631,771,905,1042,1194,1294,1422"
+                    },
+                    "to": {
+                        "startLines": "29,48,50,54,55,56,57,58,59,60,61",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2859,5708,5931,6336,6467,6601,6741,6875,7012,7164,7264",
+                        "endColumns": "118,108,87,130,133,139,133,136,151,99,127",
+                        "endOffsets": "2973,5812,6014,6462,6596,6736,6870,7007,7159,7259,7387"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\123\\Desktop\\LBJProject\\aries-wallet-client\\android\\%GRADLE_HOME%\\bin\\caches\\transforms-3\\060dff7644d80534b68ae20379930fc6\\transformed\\jetified-play-services-basement-17.6.0\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "214",
+                        "endOffsets": "461"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4144",
+                        "endColumns": "214",
+                        "endOffsets": "4354"
+                    }
+                }
+            ]
+        }
+    ]
+}

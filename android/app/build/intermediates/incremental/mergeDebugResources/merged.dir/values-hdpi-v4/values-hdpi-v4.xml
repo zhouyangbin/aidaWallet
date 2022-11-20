@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="passbaseBtnLogo">6dp</dimen>
+    <dimen name="textActionButton">12dp</dimen>
+    <dimen name="textByPassbase">14dp</dimen>
+    <dimen name="textCountriesByAlphabet">11dp</dimen>
+    <dimen name="textCountryItem">18dp</dimen>
+    <dimen name="textSmall">14dp</dimen>
+    <dimen name="textTextCloseSubTitle">14sp</dimen>
+    <dimen name="textTextCloseTitle">18sp</dimen>
+    <dimen name="textTextSubTitle">16dp</dimen>
+    <dimen name="textTextSubTitleReuseDoc">14dp</dimen>
+    <dimen name="textTextTerms">9sp</dimen>
+    <dimen name="textTextTitle">20dp</dimen>
+    <dimen name="textTextTitleReuseDoc">16dp</dimen>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+          <item name="barLength">18.66dp</item>
+          <item name="gapBetweenBars">3.33dp</item>
+          <item name="drawableSize">24dp</item>
+     </style>
+</resources>

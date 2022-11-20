@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="COVID_VACCINATION_CARD">"Covid-vaccinatiekaart"</string>
+    <string name="DRIVERS_LICENSE">"Rijbewijs"</string>
+    <string name="HEALTH_INSURANCE_CARD">"Zorgverzekeringspas"</string>
+    <string name="HEALTH_INSURANCE_CARD_US">"Zorgverzekeringspas"</string>
+    <string name="NATIONAL_ID_CARD">"Nationaal ID-bewijs"</string>
+    <string name="PASSPORT">"Paspoort"</string>
+    <string name="PROOF_OF_ADDRESS">"Bewijs van adres"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Klaar"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"UIT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AAN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Gebied voor Help-berichten"</string>
+    <string name="agreeToTerms">"Ga akkoord met de algemene voorwaarden"</string>
+    <string name="back">"achterkant"</string>
+    <string name="bulletCovidVaccinationCardVisible">"De foto op uw CDC-vaccinatiekaart is zichtbaar."</string>
+    <string name="bulletDocumentVisible">"Het volledige document is zichtbaar."</string>
+    <string name="bulletDriversLicenseVisible">"De foto op uw rijbewijs is zichtbaar."</string>
+    <string name="bulletHealthInsuranceVisible">"De foto op uw zorgverzekeringspas is zichtbaar."</string>
+    <string name="bulletNationalIDVisible">"De foto op uw nationale identiteitskaart is zichtbaar."</string>
+    <string name="bulletPassportVisible">"De foto op uw paspoort is zichtbaar."</string>
+    <string name="bulletProofOfAddressVisible">"De foto op uw bewijs van adres is zichtbaar."</string>
+    <string name="bulletReadable">"De informatie op je {documenttype} is makkelijk te lezen."</string>
+    <string name="cameraPermissions">"Sta camera-toegang toe om verder te gaan."</string>
+    <string name="cameraPermissionsErrorMobile">"Om verder te gaan met de verificatie hebben we toegang nodig tot je camera.
+Zorg ervoor dat je toegang verleent en klikt op Opnieuw proberen."</string>
+    <string name="cancel">"Ja, annuleer"</string>
+    <string name="challengeFarDistancePrompt">"Beweeg je gezicht verder weg binnen het kader"</string>
+    <string name="challengeFinishSuccess">"Goed gedaan!"</string>
+    <string name="challengeHintInitialization">"Maak je klaar voor de uitdaging"</string>
+    <string name="challengeHintPendingNoFace">"Geen gezicht gedetecteerd"</string>
+    <string name="challengeHintPendingOffDownd">"Een beetje omhoog"</string>
+    <string name="challengeHintPendingOffLeft">"Een beetje naar rechts"</string>
+    <string name="challengeHintPendingOffRight">"Een beetje naar links"</string>
+    <string name="challengeHintPendingOffUp">"Een beetje omlaag"</string>
+    <string name="challengeHintPendingTooClose">"Ga verder weg"</string>
+    <string name="challengeHintPendingTooFar">"Kom dichterbij"</string>
+    <string name="challengeHintValidatedSuccessFrst">"Nog één uitdaging"</string>
+    <string name="challengeHintValidatedSuccessLast">"Dat is het!"</string>
+    <string name="challengeHintValidation">"Bevestigen"</string>
+    <string name="challengeInitializer">"Plaats je gezicht in de cirkel"</string>
+    <string name="challengeInstructionInitialization">"Geweldig, laten we beginnen"</string>
+    <string name="challengeInstructionPending">"Match de cirkels"</string>
+    <string name="challengeInstructionTimeout">"Tijd verlopen"</string>
+    <string name="challengeInstructionValidatedSuccess">"Goed gedaan!"</string>
+    <string name="challengeInstructionValidation">"Geweldig, wacht even"</string>
+    <string name="challengeStartPromt">"Beweeg je gezicht dichterbij in het kader"</string>
+    <string name="challengeStartSuccess">"Mooi, laten we beginnen"</string>
+    <string name="challengeTimeout">"Tijd verstreken. Probeer het opnieuw"</string>
+    <string name="challengeValidation">"Mooi, wacht een paar seconden"</string>
+    <string name="close">"Sluiten"</string>
+    <string name="closeStepSubtitle">"Dit kan invloed hebben op je mogelijkheden om toegang te krijgen tot de dienst. Weet je zeker dat je dit wilt doen?"</string>
+    <string name="closeStepTitle">"Verificatie annuleren?"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Inschakelen"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt niet, tenzij je Google Play-services inschakelt."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-services inschakelen"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installeren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-services ophalen"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Beschikbaarheid van Google Play-services"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fout met Google Play-services"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Probeer het opnieuw."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Updaten"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd, tenzij je Google Play-services updatet."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-services updaten"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Openen op telefoon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inloggen"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inloggen met Google"</string>
+    <string name="confirm">"Ja, bevestig"</string>
+    <string name="confirmButton">"Bevestig"</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Wachtwoord gebruiken"</string>
+    <string name="consentBulletLight">"Zorg ervoor dat je in goed licht zit voor een selfievideo"</string>
+    <string name="consentOr">"of"</string>
+    <string name="consentSecurityFooter">"Door op \"Doorgaan\" te klikken, gaat u akkoord met de Passbase &lt;terms>Gebruiksvoorwaarden&lt;/terms> en erkent u ons &lt;privacy>Privacybeleid&lt;/privacy>. U erkent ook dat u Passbase opdracht geeft om de informatie die u verstrekt te delen met {organization}. Uw persoonlijke gegevens vallen ook onder het privacybeleid van {organization} en Passbase is niet verantwoordelijk voor de verwerking van uw persoonlijke gegevens door {organization}."</string>
+    <string name="consentTitle">"Bereid je voor op je verificatie"</string>
+    <string name="continueButton">"Ga verder"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link naar klembord gekopieerd"</string>
+    <string name="countriesCount">"224 LANDEN OP ALFABET"</string>
+    <string name="countrySelectionSubtitle">"Kies alsjeblieft het land uit de keuzelijst."</string>
+    <string name="countrySelectionTitle">"Uit welk land komt je document?"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Onbekende fout"</string>
+    <string name="demoUiMode">"DEMO UI MODUS"</string>
+    <string name="docsList">"Pak je paspoort, rijbewijs of nationale identiteitskaart"</string>
+    <string name="driversLicenseCheck">"Rijbewijscontrole"</string>
+    <string name="emailErrorMessage">"Voer een geldig e-mailadres in."</string>
+    <string name="emailPlaceholder">"jouw@email.com"</string>
+    <string name="error">"Fout"</string>
+    <string name="faceChallengeEmailSubtitle">"Als dit niet het geval is kunt u beginnen met het opnieuw invoeren van het correcte e-mailadres"</string>
+    <string name="faceChallengeEmailTitle">"Is {email} uw e-mailadres?"</string>
+    <string name="faceChallengeRetryFailedTitle">"Authenticatie mislukt"</string>
+    <string name="faceChallengeRetrySubtitle">"Klik op 'opnieuw proberen' en zorg ervoor dat uw gezicht goed belicht is."</string>
+    <string name="faceChallengeRetryTitle">"We konden u niet authenticeren."</string>
+    <string name="faceVerificationExplanationSubtitleZoom">"Zorg ervoor dat je in goed licht zit voor een selfievideo en volg de instructies op het volgende scherm"</string>
+    <string name="faceVerificationExplanationTitleZoom">"Bereid jezelf voor op je selfievideo"</string>
+    <string name="facetec_liveness_passed">"Liveness test geslaagd"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Link kopiëren"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Openen in browser"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Link delen"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Raak de vingerafdruksensor aan"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Hardware voor vingerafdruk niet beschikbaar."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"Dit apparaat heeft geen vingerafdruksensor"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Te veel pogingen. Probeer het later opnieuw."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Geen vingerafdrukken geregistreerd."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Vingerafdrukverificatie geannuleerd door gebruiker."</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Niet herkend"</string>
+    <string name="finish">"Afronden"</string>
+    <string name="finishedSubtitle">"Dank je. We verwerken nu je verificatie."</string>
+    <string name="finishedTitle">"Verificatie verzonden"</string>
+    <string name="front">"voorkant"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Verificatie geannuleerd door gebruiker."</string>
+    <string name="goBack">"Nee, ga terug"</string>
+    <string name="identificationChoiceSubtitle">"Kies het documenttype uit de keuzelijst."</string>
+    <string name="identificationChoiceTitle">"Welk document wil je scannen?"</string>
+    <string name="livenessFailedSubtitle">"(1) Zorg ervoor dat je gezicht voldoende en gelijkmatig verlicht is. (2) Verwijder obstakels zoals hoeden, zonnebrillen of koptelefoons."</string>
+    <string name="livenessFailedTitle">"We konden je niet verifiëren"</string>
+    <string name="loggedIn">"Succesvol ingelogd"</string>
+    <string name="loginSubtitle">"Zo kun je straks bijhouden wie toegang heeft tot jouw gegevens."</string>
+    <string name="loginTitle">"Vul je emailadres in"</string>
+    <string name="mb_activity_title_step_back_side">Achterzijde</string>
+    <string name="mb_activity_title_step_front_side">Voorzijde</string>
+    <string name="mb_autofocus_fail">Camera kan niet scherpstellen. Probeer onder andere lichtomstandigheden te scannen.</string>
+    <string name="mb_blinkid_back_instructions_barcode">Scan de barcode</string>
+    <string name="mb_blinkid_camera_flip_document">Draai het document om</string>
+    <string name="mb_blinkid_document_not_fully_visible">Het document volledig zichtbaar houden</string>
+    <string name="mb_blinkid_document_too_close_to_edge">Verplaats het document weg van de rand</string>
+    <string name="mb_blinkid_front_instructions">Scan de voorzijde\nvan een document</string>
+    <string name="mb_camera_not_allowed">Camera niet toegestaan in de toegangsinstellingen.</string>
+    <string name="mb_camera_not_ready">Camera niet klaar.</string>
+    <string name="mb_camera_permission_required">Cameratoegang is vereist.</string>
+    <string name="mb_custom_ui_forbidden">Licentie staat geen aangepaste camera-activiteit toe!</string>
+    <string name="mb_data_not_match_msg">Begin het scanproces alstublieft nogmaals.</string>
+    <string name="mb_data_not_match_retry_button">Probeer opnieuw</string>
+    <string name="mb_data_not_match_title">Zijdes komen niet overeen</string>
+    <string name="mb_dismiss_error_dialog">Sluiten</string>
+    <string name="mb_enable_camera">Camera inschakelen</string>
+    <string name="mb_enable_permission_help">U wordt nu omgeleid naar de toegangsinstellingen waar u de app toegangsrechten tot de camera moet geven.</string>
+    <string name="mb_enable_permission_help_instant_app">Geef alstublieft cameratoegang via de toegangsinstellingen van de app.</string>
+    <string name="mb_error_camera_high">Beweeg dichterbij</string>
+    <string name="mb_error_camera_near">Beweeg verder weg</string>
+    <string name="mb_error_initializing">Kon de native bibliotheek niet initialiseren. Controleer alstublieft het ADB-foutenlogboek voor meer gegevens.</string>
+    <string name="mb_feature_unsupported_android_version">Deze functie wordt ondersteund voor Android 2.1 en nieuwer</string>
+    <string name="mb_feature_unsupported_autofocus">Deze functie wordt niet ondersteund op een camera zonder autofocus</string>
+    <string name="mb_feature_unsupported_device">Deze functie wordt niet ondersteund vanwege de technische specificaties van uw apparaat </string>
+    <string name="mb_flashlight_warning_message">Pas op voor schittering van de flitser.\nVerplaats uw ID voorzichtig om dit te voorkomen.</string>
+    <string name="mb_help_button">"Hulp nodig? Klik hier."</string>
+    <string name="mb_invalid_license">Ongeldige licentiesleutel! Controleer alstublieft het ADB-foutenlogboek voor meer gegevens.</string>
+    <string name="mb_licence_check_device_offline">Controleer de internetverbinding</string>
+    <string name="mb_licence_check_failed">Netwerkfout</string>
+    <string name="mb_licence_locked">Scannen niet beschikbaar</string>
+    <string name="mb_recognition_timeout_dialog_message">Kon het document niet lezen. Probeer het alstublieft opnieuw.</string>
+    <string name="mb_recognition_timeout_dialog_retry_button">Probeer opnieuw</string>
+    <string name="mb_recognition_timeout_dialog_title">Scan niet gelukt</string>
+    <string name="mb_splash_msg_id_back">Achterzijde van ID-kaart</string>
+    <string name="mb_splash_msg_id_front">Voorzijde van ID-kaart</string>
+    <string name="mb_tooltip_back_id">Plaats de <b>ACHTERZIJDE</b> van de ID-kaart in het kader en wacht op een automatische scan</string>
+    <string name="mb_tooltip_front_id">Plaats de <b>VOORZIJDE</b> van de ID-kaart in het kader en wacht op een automatische scan</string>
+    <string name="mb_tooltip_glare">Verplaats het ID een beetje om weerspiegeling te voorkomen.</string>
+    <string name="mb_unsupported_document_message">Scan de voorzijde van een ondersteund document.</string>
+    <string name="mb_unsupported_document_title">Document niet herkend</string>
+    <string name="mb_warning_title">Waarschuwing</string>
+    <string name="nationalIdCheck">"Nationale ID-kaartcontrole"</string>
+    <string name="nationalityMessage">"Kies je nationaliteit"</string>
+    <string name="networkError">"Er ging iets mis."</string>
+    <string name="not_accepted">"(niet geaccepteerd)"</string>
+    <string name="not_available">"(niet beschikbaar)"</string>
+    <string name="ok">"Oke"</string>
+    <string name="outOfCreditsMobile">"Er staan geen credits meer op je account."</string>
+    <string name="passportCheck">"Paspoortcontrole"</string>
+    <string name="passportVerificationExplanationSubtitle">"Open de pagina met je persoonlijke gegevens en ga verder op het volgende scherm."</string>
+    <string name="passportVerificationExplanationTitle">"Bereid je voor om je paspoort te scannen"</string>
+    <string name="pictureUserConfirmationTitle">"Kun je het volgende bevestigen?"</string>
+    <string name="prepareCovidVaccinationCard">"Bereid je voor om de voorzijde van de CDC-vaccinatiekaart te scannen."</string>
+    <string name="prepareDriversLicenseBack">"Bereid u voor om de achterzijde van uw rijbewijs te scannen"</string>
+    <string name="prepareDriversLicenseFront">"Bereid u voor om de voorzijde van uw rijbewijs te scannen"</string>
+    <string name="prepareHealthInsuranceBack">"Bereid u voor om de achterzijde van uw zorgverzekeringspas te scannen"</string>
+    <string name="prepareHealthInsuranceFront">"Bereid u voor om de voorzijde van uw zorgverzekeringspas te scannen"</string>
+    <string name="prepareNationalIDBack">"Bereid u voor om de achterzijde van uw nationale identiteitskaart te scannen"</string>
+    <string name="prepareNationalIDFront">"Bereid u voor om de voorzijde van uw nationale identiteitskaart te scannen"</string>
+    <string name="preparePassport">"Bereid u voor om uw paspoort te scannen"</string>
+    <string name="prepareProofOfAddress">"Bereid u voor om uw bewijs van adres te scannen"</string>
+    <string name="redo">"Probeer opnieuw"</string>
+    <string name="retryFaceChallengeCta">"Opnieuw proberen"</string>
+    <string name="retryFaceChallengeEmailCta">"Ja, opnieuw proberen"</string>
+    <string name="retryFaceChallengeRedoEmailCta">"Nee, opnieuw invoeren"</string>
+    <string name="reuseResourceInfoText">"﻿Door de bovenstaande identiteitsbron(nen) te selecteren, kunt u het proces verkorten. Mogelijk moet u, indien nodig, aanvullende documenten voorbereiden."</string>
+    <string name="reuseResourceSecondTitle">"﻿Bestaande ID-documenten delen"</string>
+    <string name="reuseResourceTitle">"﻿Welkom terug. Eerder geüploade documenten delen om het proces te versnellen"</string>
+    <string name="reuseResourceTooltip">"﻿U hebt dit identiteitsbewijs eerder gedeeld dat nu kan worden hergebruikt om het verificatieproces te versnellen."</string>
+    <string name="scanCovidVaccinationCard">"Scan de voorkant van CDC-vaccinatiekaart"</string>
+    <string name="scanDriversLicenseBack">"Scan de achterzijde van uw rijbewijs"</string>
+    <string name="scanDriversLicenseFront">"Scan de voorzijde van uw rijbewijs"</string>
+    <string name="scanHealthInsuranceBack">"Scan de achterzijde van uw zorgverzekeringspas"</string>
+    <string name="scanHealthInsuranceFront">"Scan de voorzijde van uw zorgverzekeringspas"</string>
+    <string name="scanNationalIDBack">"Scan de achterzijde van uw nationale identiteitskaart"</string>
+    <string name="scanNationalIDFront">"Scan de voorzijde van uw nationale identiteitskaart"</string>
+    <string name="scanPassport">"Scan uw paspoort"</string>
+    <string name="scanProofOfAddress">"Scan uw bewijs van adres"</string>
+    <string name="scanToolTip">"Scan alstublieft uw document"</string>
+    <string name="scan_manually_button">"Scan handmatig"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Zoeken"</string>
+    <string name="securedBy">"Beveiligd door"</string>
+    <string name="session_expired">"Je sessie is verlopen, begin opnieuw."</string>
+    <string name="start">"Start"</string>
+    <string name="startInfoExplanationSubtitle">"We begeleiden je door een eenvoudig proces om je identiteit te bevestigen."</string>
+    <string name="startInfoExplanationTitle">"Start je verificatie"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="summaryDocument">"%@"</string>
+    <string name="summaryEmail">"Email adres"</string>
+    <string name="summaryLocation">"Huidige locatie"</string>
+    <string name="summarySelfieVideo">"Video Selfie"</string>
+    <string name="summaryTitle">"Stuur je gegevens veilig"</string>
+    <string name="tooltipAdditionalDocument">"Via dit document verkrijgt de verifiërende partij informatie om bepaalde specifieke identiteitsgegevens  te verbeteren."</string>
+    <string name="tooltipDocument">"Je ID-bewijs wordt gebruikt om vast te stellen wie je bent."</string>
+    <string name="tooltipEmail">"Je email wordt gebruikt om je een ontvangstbericht te kunnen sturen en je te laten weten wie toegang heeft tot jouw gegevens."</string>
+    <string name="tooltipLocation">"Je locatie wordt gebruikt om mogelijk frauduleus gedrag vast te stellen om zo je account veilig te houden."</string>
+    <string name="tooltipSelfieVideo">"Je video selfie wordt gebruikt om vast te stellen dat jij het bent en niemand anders die jouw identiteit probeert aan te nemen. Dit wordt ook vergeleken met de foto op je ID-bewijs."</string>
+    <string name="tryAgain">"Probeer opnieuw"</string>
+    <string name="turnCovidVaccinationCard">"Draai naar de voorkant van uw CDC-vaccinatiekaart en ga verder op het volgende scherm."</string>
+    <string name="turnDriversLicenseBack">"Draai om naar de achterzijde van uw rijbewijs en ga op het volgende scherm verder."</string>
+    <string name="turnDriversLicenseFront">"Draai om naar de voorzijde van uw rijbewijs en ga op het volgende scherm verder."</string>
+    <string name="turnHealthInsuranceBack">"Draai om naar de achterzijde van uw zorgverzekeringspas en ga op het volgende scherm verder."</string>
+    <string name="turnHealthInsuranceFront">"Draai om naar de voorzijde van uw zorgverzekeringspas en ga op het volgende scherm verder."</string>
+    <string name="turnNationalIDBack">"Draai om naar de achterzijde van uw nationale identiteitskaart en ga op het volgende scherm verder."</string>
+    <string name="turnNationalIDFront">"Draai om naar de voorzijde van uw nationale identiteitskaart en ga op het volgende scherm verder."</string>
+    <string name="turnPassport">"Open de pagina die uw persoonlijke informatie toont en ga op het volgende scherm verder."</string>
+    <string name="turnProofOfAddress">"Draai om naar de voorzijde van uw bewijs van adres en ga op het volgende scherm verder."</string>
+    <string name="type_country">"Type land"</string>
+    <string name="ucrop_label_edit_photo">Foto bewerken</string>
+    <string name="ucrop_label_original">Origineel</string>
+    <string name="ucrop_menu_crop">Bijsnijden</string>
+    <string name="uploadFailed">"Upload mislukt"</string>
+    <string name="uploaded">"geüpload"</string>
+    <string name="verifyMe">"Verifieer mij"</string>
+    <string name="yd_tip_close">sluiting</string>
+    <string name="yd_tip_init_timeout">Initialisatie time-out, klik om het opnieuw te proberen</string>
+    <string name="yd_tip_load_failed">Laden mislukt, probeer het opnieuw</string>
+    <string name="yd_tip_loading">Intelligente detectie</string>
+    <string name="yd_tip_no_network">Het netwerk is abnormaal, controleer a.u.b.</string>
+    <string name="yd_tip_validate_timeout">Verificatie time-out, controleer het netwerk</string>
+</resources>

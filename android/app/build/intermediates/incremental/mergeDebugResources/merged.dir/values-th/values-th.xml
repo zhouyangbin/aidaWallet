@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="COVID_VACCINATION_CARD">"บัตรประวัติฉีดวัคซีนโควิด"</string>
+    <string name="DRIVERS_LICENSE">"ใบอนูญาตขับขี่"</string>
+    <string name="HEALTH_INSURANCE_CARD">"บัตรประกันสุขภาพ"</string>
+    <string name="HEALTH_INSURANCE_CARD_US">"บัตรประกันสุขภาพ"</string>
+    <string name="NATIONAL_ID_CARD">"บัตรประจำตัวประชาชน"</string>
+    <string name="PASSPORT">"พาสปอร์ต"</string>
+    <string name="PROOF_OF_ADDRESS">"เอกสารยืนยันที่อยู่"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"กลับ"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"เสร็จ"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ปิด"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"เปิด"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ลบ"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"เมนู+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ล้างคำค้นหา"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"คำค้นหา"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ส่งคำค้นหา"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"แชร์ทาง <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"พื้นที่ข้อความช่วยเหลือ"</string>
+    <string name="agreeToTerms">"ยอมรับในข้อกำหนดและเงื่อนไข"</string>
+    <string name="back">"ด้านหลัง"</string>
+    <string name="bulletCovidVaccinationCardVisible">"มองเห็นรูปถ่ายในบัตรประวัติการฉีดวัคซีนโดย CDC ได้อย่างชัดเจน"</string>
+    <string name="bulletDocumentVisible">"เอกสารทั้งหมดสามารถมองเห็นได้"</string>
+    <string name="bulletDriversLicenseVisible">"รูปถ่ายใบอนุญาตขับขี่ของคุณสามารถมองเห็นได้"</string>
+    <string name="bulletHealthInsuranceVisible">"รูปถ่ายบนบัตรประกันสุขภาพของคุณสามารถมองเห็นได้"</string>
+    <string name="bulletNationalIDVisible">"รูปถ่ายบนบัตรประจำตัวประชาชนของคุณสามารถมองเห็นได้"</string>
+    <string name="bulletPassportVisible">"รูปถ่ายบนพาสปอร์ตของคุณสามารถมองเห็นได้"</string>
+    <string name="bulletProofOfAddressVisible">"รูปถ่ายบนหลักฐานแสดงที่อยู่ของคุณสามารถมองเห็นได้"</string>
+    <string name="bulletReadable">"ข้อมูลบน {documentType} ของคุณอ่านได้ง่าย"</string>
+    <string name="cameraPermissions">"โปรดอนุญาตให้เข้าถึงกล้องเพื่อดำเนินการต่อ"</string>
+    <string name="cameraPermissionsErrorMobile">"ในการดำเนินการยืนยันต่อ เราจำเป็นต้องเข้าถึงกล้องของคุณ
+ตรวจสอบให้แน่ใจว่าคุณอนุญาตให้เข้าถึงแล้วหรือคลิกที่ ลองใหม่"</string>
+    <string name="cancel">"ใช่ ยกเลิก"</string>
+    <string name="challengeFarDistancePrompt">"ขยับใบหน้าออกไปเล็กน้อย ให้อยู่ภายในกรอบ"</string>
+    <string name="challengeFinishSuccess">"ดีมาก!"</string>
+    <string name="challengeHintInitialization">"เตรียมตัวให้พร้อมสำหรับความท้าทาย"</string>
+    <string name="challengeHintPendingNoFace">"ตรวจจับใบหน้าไม่ได้"</string>
+    <string name="challengeHintPendingOffDownd">"ขยับขึ้นเล็กน้อย"</string>
+    <string name="challengeHintPendingOffLeft">"ไปทางขวาเล็กน้อย"</string>
+    <string name="challengeHintPendingOffRight">"ไปทางซ้ายเล็กน้อย"</string>
+    <string name="challengeHintPendingOffUp">"ขยับลงเล็กน้อย"</string>
+    <string name="challengeHintPendingTooClose">"ขยับออกห่างกว่านี้"</string>
+    <string name="challengeHintPendingTooFar">"ขยับเข้ามาใกล้ขึ้น"</string>
+    <string name="challengeHintValidatedSuccessFrst">"อีกหนึ่งความท้าทาย"</string>
+    <string name="challengeHintValidatedSuccessLast">"เรียบร้อย!"</string>
+    <string name="challengeHintValidation">"ตรวจสอบความถูกต้อง"</string>
+    <string name="challengeInitializer">"ขยับให้หน้าของคุณอยู่ในวงกลม"</string>
+    <string name="challengeInstructionInitialization">"เยี่ยม มาเริ่มกันเลย"</string>
+    <string name="challengeInstructionPending">"จับคู่วงกลมต่างๆ"</string>
+    <string name="challengeInstructionTimeout">"หมดเวลา"</string>
+    <string name="challengeInstructionValidatedSuccess">"ดีมาก"</string>
+    <string name="challengeInstructionValidation">"เยี่ยมมาก"</string>
+    <string name="challengeStartPromt">"ขยับหน้าเข้ามาใกล้ภายในเฟรม"</string>
+    <string name="challengeStartSuccess">"เยี่ยม เริ่มกันเลย"</string>
+    <string name="challengeTimeout">"หมดเวลา โปรดลองอีกครั้ง"</string>
+    <string name="challengeValidation">"เยี่ยม ถือกล้องไว้อย่างนั้นสักครู่"</string>
+    <string name="close">"ปิด"</string>
+    <string name="closeStepSubtitle">"ซึ่งอาจส่งผลต่อความสามารถในการเข้าถึงบริการของคุณ คุณแน่ใจหรือว่าต้องการทำสิ่งนี้"</string>
+    <string name="closeStepTitle">"ยกเลิกการยืนยันหรือไม่"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"เปิดใช้"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"เปิดใช้บริการ Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ติดตั้ง"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"ติดตั้งบริการ Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"ความพร้อมใช้งานของบริการ Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"ข้อผิดพลาดของบริการ Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"อัปเดต"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"อัปเดตบริการ Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"เปิดบนโทรศัพท์"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ลงชื่อเข้าใช้"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"ลงชื่อเข้าใช้ด้วย Google"</string>
+    <string name="confirm">"ใช่ ยืนยัน"</string>
+    <string name="confirmButton">"ยืนยัน"</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"ใช้รหัสผ่าน"</string>
+    <string name="consentBulletLight">"จัดตำแหน่งของคุณในที่มีแสงที่ดีสำหรับวิดีโอเซลฟี่"</string>
+    <string name="consentOr">"หรือ"</string>
+    <string name="consentSecurityFooter">"โดยการคลิก \"ดำเนินการต่อ\" แสดงว่าคุณยอมรับ &lt;terms>ข้อกำหนดการใช้งาน&lt;/terms> Passbase และรับทราบ &lt;privacy>นโยบายความเป็นส่วนตัว&lt;/privacy> คุณยังรับทราบด้วยว่าคุณกำลังสั่งการให้ Passbase แบ่งปันข้อมูลที่คุณให้กับ {organization} ข้อมูลส่วนบุคคลของคุณจะอยู่ภายใต้นโยบายความเป็นส่วนตัวของ {organization}และ Passbase จะไม่รับผิดชอบต่อการประมวลผลของ{organization}ต่อข้อมูลส่วนบุคคลของคุณ"</string>
+    <string name="consentTitle">"เตรียมสำหรับการยืนยันของคุณ"</string>
+    <string name="continueButton">"ดำเนินการต่อ"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว"</string>
+    <string name="countriesCount">"224 ประเทศ ตามตัวอักษร"</string>
+    <string name="countrySelectionSubtitle">"โปรดเลือกประเทศจากรายการแบบเลื่อนลง"</string>
+    <string name="countrySelectionTitle">"เอกสารของคุณมาจากประเทศอะไร"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"ข้อผิดพลาดที่ไม่รู้จัก"</string>
+    <string name="demoUiMode">"โหมด UI สาธิต"</string>
+    <string name="docsList">"เอาพาสปอร์ต ใบอนุญาตขับขี่หรือบัตรประจำตัวประชาชน"</string>
+    <string name="driversLicenseCheck">"ตรวจสอบใบขับขี่"</string>
+    <string name="emailErrorMessage">"โปรดกรอกที่อยู่อีเมลที่ถูกต้อง"</string>
+    <string name="emailPlaceholder">"your@email.com"</string>
+    <string name="error">"ข้อผิดพลาด"</string>
+    <string name="faceChallengeEmailSubtitle">"หากไม่ คุณสามารถเริ่มใหม่อีกครั้งเพื่อป้อนอีเมลที่ถูกต้อง"</string>
+    <string name="faceChallengeEmailTitle">"{email} คืออีเมลของคุณหรือไม่"</string>
+    <string name="faceChallengeRetryFailedTitle">"การตรวจสอบความถูกต้องล้มเหลว"</string>
+    <string name="faceChallengeRetrySubtitle">"คลิกลองใหม่และตรวจสอบว่าใบหน้าของคุณอยู่ในแสงที่ดี"</string>
+    <string name="faceChallengeRetryTitle">"เราไม่สามารถรับรองความถูกต้องของคุณได้"</string>
+    <string name="faceVerificationExplanationSubtitleZoom">"จัดตำแหน่งตัวเองให้อยู่ในแสงที่ดีและปฏิบัติตามคำแนะนำในหน้าจอถัดไป"</string>
+    <string name="faceVerificationExplanationTitleZoom">"เตรียมสำหรับวิดีโอเซลฟี่ของคุณ"</string>
+    <string name="facetec_liveness_passed">"ผ่านการทดสอบความมีชีวิต"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"คัดลอกลิงก์"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"เปิดในเบราว์เซอร์"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"แชร์ลิงก์"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"แตะเซ็นเซอร์ลายนิ้วมือ"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"ฮาร์ดแวร์ลายนิ้วมือไม่พร้อมใช้งาน"</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"อุปกรณ์นี้ไม่มีเซ็นเซอร์ลายนิ้วมือ"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"ลองหลายครั้งเกินไป โปรดลองอีกครั้งภายหลัง"</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"ไม่มีลายนิ้วมือที่ลงทะเบียน"</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"ผู้ใช้ยกเลิกการทำงานของลายนิ้วมือ"</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"ไม่รู้จัก"</string>
+    <string name="finish">"เสร็จ"</string>
+    <string name="finishedSubtitle">"ขอบคุณ ขณะนี้เรากำลังประมวลผลการยืนยันของคุณ"</string>
+    <string name="finishedTitle">"ส่งการยืนยันแล้ว"</string>
+    <string name="front">"ด้านหน้า"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"ผู้ใช้ยกเลิกการตรวจสอบสิทธิ์"</string>
+    <string name="goBack">"ไม่ กลับไป"</string>
+    <string name="identificationChoiceSubtitle">"โปรดเลือกประเภทเอกสารจากรายการแบบเลื่อนลง"</string>
+    <string name="identificationChoiceTitle">"คุณจะสแกนเอกสารอันไหน"</string>
+    <string name="livenessFailedSubtitle">"(1) ตรวจสอบให้แน่ใจว่าใบหน้าของคุณได้รับแสงสว่างเพียงพอและสม่ำเสมอ (2) นำสิ่งกีดขวาง เช่น หมวก แว่นกันแดด หรือหูฟังออก"</string>
+    <string name="livenessFailedTitle">"เราไม่สามารถยืนยันตัวตนคุณได้"</string>
+    <string name="loggedIn">"คุณได้รับการรับรองความถูกต้อง"</string>
+    <string name="loginSubtitle">"ใช้ที่อยู่อีเมลหลักของคุณเพื่อให้การยืนยันสำเร็จ"</string>
+    <string name="loginTitle">"ใส่ที่อยู่อีเมลของคุณ"</string>
+    <string name="mb_activity_title_step_back_side">ด้านหลัง</string>
+    <string name="mb_activity_title_step_front_side">ด้านหน้า</string>
+    <string name="mb_autofocus_fail">กล้องไม่โฟกัส ลองสแกนในแสงที่ต่างออกไป</string>
+    <string name="mb_blinkid_back_instructions_barcode">สแกนบาร์โค้ด</string>
+    <string name="mb_blinkid_camera_flip_document">พลิกเอกสาร</string>
+    <string name="mb_blinkid_document_not_fully_visible">ทำให้สามารถเห็นเอกสารเต็มขั้นตลอด</string>
+    <string name="mb_blinkid_document_too_close_to_edge">เลื่อนเอกสารออกจากขอบ</string>
+    <string name="mb_blinkid_front_instructions">สแกนด้านหน้าของเอกสาร</string>
+    <string name="mb_camera_not_allowed">กล้องไม่ได้รับการอนุญาตในการตั้งค่า</string>
+    <string name="mb_camera_not_ready">กล้องไม่พร้อมใช้งาน</string>
+    <string name="mb_camera_permission_required">จำเป็นต้องอนุญาตการใช้งานกล้อง</string>
+    <string name="mb_custom_ui_forbidden">ใบอนุญาตไม่อนุญาตให้มีการใช้กล้องแบบกำหนดเอง!</string>
+    <string name="mb_data_not_match_msg">โปรดเริ่มขั้นตอนการสแกนใหม่อีกครั้ง</string>
+    <string name="mb_data_not_match_retry_button">ลองอีกครั้ง</string>
+    <string name="mb_data_not_match_title">ด้านข้างไม่ตรงกัน</string>
+    <string name="mb_dismiss_error_dialog">ปิด</string>
+    <string name="mb_enable_camera">เปิดใช้งานกล้อง</string>
+    <string name="mb_enable_permission_help">ตอนนี้คุณจะถูกนำไปที่การตั้งค่าการอนุญาตซึ่งคุณจะต้องอนุญาตแอปให้ใช้งานกล้อง</string>
+    <string name="mb_enable_permission_help_instant_app">โปรดอนุญาตการใช้งานกล้องในการตั้งค่าการอนุญาตแอป</string>
+    <string name="mb_error_camera_high">เลื่อนเข้าใกล้</string>
+    <string name="mb_error_camera_near">เลื่อนออกห่าง</string>
+    <string name="mb_error_initializing">ไม่สามารถเริ่มต้นไลบรารี่บนอุปกรณ์ โปรดตรวจสอบบันทึกข้อผิดพลาดของ ADB เพื่อดูรายละเอียดเพิ่มเติม</string>
+    <string name="mb_feature_unsupported_android_version">คุณสมบัตินี้รองรับ Android 2.1 เป็นต้นไป</string>
+    <string name="mb_feature_unsupported_autofocus">คุณสมบัตินี้ไม่รองรับกล้องที่ไม่มีระบบออโต้โฟกัส</string>
+    <string name="mb_feature_unsupported_device">คุณสมบัตินี้ไม่ได้รับการรองรับเนื่องจากคุณสมบัติทางเทคนิคของอุปกรณ์คุณ</string>
+    <string name="mb_flashlight_warning_message">ระวังแสงจ้าจากไฟฉาย\nค่อย ๆ เลื่อนบัตรประชาชนของคุณไปรอบ ๆ เพื่อหลีกเลี่ยง</string>
+    <string name="mb_help_button">"ต้องการความช่วยเหลือหรือไม่ คลิกที่นี่"</string>
+    <string name="mb_invalid_license">คีย์ใบอนุญาตไม่ถูกต้อง! โปรดตรวจสอบบันทึกข้อผิดพลาดของ ADB เพื่อดูรายละเอียดเพิ่มเติม</string>
+    <string name="mb_licence_check_device_offline">ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="mb_licence_check_failed">เครือข่ายเกิดข้อผิดพลาด</string>
+    <string name="mb_licence_locked">ไม่สามารถสแกนได้\n\n\n\n\n\n</string>
+    <string name="mb_recognition_timeout_dialog_message">ไม่สามารถอ่านเอกสาร โปรดลองอีกครั้ง</string>
+    <string name="mb_recognition_timeout_dialog_retry_button">ลองอีกครั้ง</string>
+    <string name="mb_recognition_timeout_dialog_title">สแกนไม่สำเร็จ</string>
+    <string name="mb_splash_msg_id_back">บัตรประชาชนด้านหลัง</string>
+    <string name="mb_splash_msg_id_front">บัตรประชาชนด้านหน้า</string>
+    <string name="mb_tooltip_back_id">วาง<b>ด้านหลัง</b>ของบัตรประชาชนในกรอบและรอการสแกนอัตโนมัติ</string>
+    <string name="mb_tooltip_front_id">วาง<b>ด้านหน้า</b>ของบัตรประชาชนในกรอบและรอการสแกนอัตโนมัติ</string>
+    <string name="mb_tooltip_glare">เลื่อนบัตรประชาชนเล็กน้อยเพื่อกำจัดแสงสะท้อน</string>
+    <string name="mb_unsupported_document_message">สแกนด้านหน้าของเอกสารที่ได้รับการรองรับ</string>
+    <string name="mb_unsupported_document_title">ระบบไม่รู้จำเอกสาร</string>
+    <string name="mb_warning_title">คำเตือน</string>
+    <string name="nationalIdCheck">"ตรวจสอบบัตรประชาชน"</string>
+    <string name="nationalityMessage">"โปรดเลือกสัญชาติของคุณ"</string>
+    <string name="networkError">"มีบางอย่างผิดปกติ"</string>
+    <string name="not_accepted">"(ไม่ยอมรับ)"</string>
+    <string name="not_available">"(ไม่มี)"</string>
+    <string name="ok">"ตกลง"</string>
+    <string name="outOfCreditsMobile">"บัญชีของคุณไม่มีเครดิต"</string>
+    <string name="passportCheck">"ตรวจสอบหนังสือเดินทาง"</string>
+    <string name="passportVerificationExplanationSubtitle">"เปิดหน้าที่แสดงข้อมูลส่วนบุคคลของคุณและดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="passportVerificationExplanationTitle">"เตรียมสแกนพาสปอร์ตของคุณ"</string>
+    <string name="pictureUserConfirmationTitle">"คุณยืนยันสิ่งต่อไปนี้ได้หรือไม่"</string>
+    <string name="prepareCovidVaccinationCard">"เตรียมสแกนด้านหน้าบัตรประวัติการฉีดวัคซีนโดย CDC"</string>
+    <string name="prepareDriversLicenseBack">"เตรียมสแกนด้านหลังใบอนุญาตขับขี่"</string>
+    <string name="prepareDriversLicenseFront">"เตรียมสแกนด้านหน้าใบอนุญาตขับขี่"</string>
+    <string name="prepareHealthInsuranceBack">"เตรียมสแกนด้านหลังบัตรประกันสุขภาพ"</string>
+    <string name="prepareHealthInsuranceFront">"เตรียมสแกนด้านหน้าบัตรประกันสุขภาพ"</string>
+    <string name="prepareNationalIDBack">"เตรียมสแกนด้านหลังบัตรประชาชน"</string>
+    <string name="prepareNationalIDFront">"เตรียมสแกนด้านหน้าบัตรประชาชน"</string>
+    <string name="preparePassport">"เตรียมสแกนพาสปอร์ตของคุณ"</string>
+    <string name="prepareProofOfAddress">"เตรียมสแกนหลักฐานที่อยู่ของคุณ"</string>
+    <string name="redo">"ไม่ ลองอีกครั้ง"</string>
+    <string name="retryFaceChallengeCta">"ลองใหม่"</string>
+    <string name="retryFaceChallengeEmailCta">"ใช่ ลองใหม่"</string>
+    <string name="retryFaceChallengeRedoEmailCta">"ไม่ กรอกอีกครั้ง"</string>
+    <string name="reuseResourceInfoText">"﻿เมื่อเลือกทรัพยากรข้อมูลประจำตัวข้างต้น คุณจะสามารถลดขั้นตอนให้สั้นลงได้ คุณอาจต้องเตรียมเอกสารเพิ่มเติม หากจำเป็น"</string>
+    <string name="reuseResourceSecondTitle">"﻿แบ่งปันเอกสารการแสดงตัวตนที่มีอยู่"</string>
+    <string name="reuseResourceTitle">"﻿ยินดีต้อนรับกลับ แบ่งปันเอกสารที่อัปโหลดก่อนหน้านี้เพื่อเร่งกระบวนการs"</string>
+    <string name="reuseResourceTooltip">"﻿ก่อนหน้านี้คุณเคยแบ่งปันเอกสารการแสดงตัวตนนี้ซึ่งตอนนี้สามารถใช้ซ้ำได้เพื่อเร่งกระบวนการตรวจสอบยืนยัน"</string>
+    <string name="scanCovidVaccinationCard">"สแกนด้านหน้าบัตรประวัติฉีดวัคซีนโดย CDC"</string>
+    <string name="scanDriversLicenseBack">"สแกนด้านหลังใบอนุญาตขับขี่"</string>
+    <string name="scanDriversLicenseFront">"สแกนด้านหน้าใบอนุญาตขับขี่"</string>
+    <string name="scanHealthInsuranceBack">"สแกนด้านหลังบัตรประกันสุขภาพ"</string>
+    <string name="scanHealthInsuranceFront">"สแกนด้านหน้าบัตรประกันสุขภาพ"</string>
+    <string name="scanNationalIDBack">"สแกนด้านหลังบัตรประจำตัวประชาชน"</string>
+    <string name="scanNationalIDFront">"สแกนด้านหน้าบัตรประจำตัวประชาชน"</string>
+    <string name="scanPassport">"สแกนพาสปอร์ตของคุณ"</string>
+    <string name="scanProofOfAddress">"เอกสารยืนยันที่อยู่"</string>
+    <string name="scanToolTip">"โปรดสแกนเอกสารของคุณ"</string>
+    <string name="scan_manually_button">"สแกนด้วยตนเอง"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ค้นหา"</string>
+    <string name="securedBy">"ปลอดภัยโดย"</string>
+    <string name="session_expired">"เซสชั่นของคุณหมดอายุแล้ว โปรดเริ่มใหม่อีกครั้ง"</string>
+    <string name="start">"เริ่ม"</string>
+    <string name="startInfoExplanationSubtitle">"เราจะแนะนำคุณไปสู่กระบวนการอย่างง่ายเพื่อยืนยันตัวตนของคุณ"</string>
+    <string name="startInfoExplanationTitle">"เริ่มการยืนยันของคุณ"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="summaryDocument">"%@ เอกสาร"</string>
+    <string name="summaryEmail">"ที่อยู่อีเมล"</string>
+    <string name="summaryLocation">"ตำแหน่งที่อยู่ล่าสุด"</string>
+    <string name="summarySelfieVideo">"วิดีโอเซลฟี่"</string>
+    <string name="summaryTitle">"ถ่ายโอนข้อมูลของคุณอย่างปลอดภัย"</string>
+    <string name="tooltipAdditionalDocument">"เอกสารนี้ให้ข้อมูลเพิ่มเติมแก่ผู้ตรวจสอบเพื่อเพิ่มจุดข้อมูลเฉพาะของข้อมูลประจำตัวของคุณ"</string>
+    <string name="tooltipDocument">"เอกสารประจำตัวของคุณใช้เพื่อตรวจสอบว่าคุณเป็นใคร"</string>
+    <string name="tooltipEmail">"อีเมลของคุณถูกใช้เพื่อให้เราสามารถส่งใบเสร็จและคุณสามารถติดตามได้ว่าใครมีข้อมูลของคุณ"</string>
+    <string name="tooltipLocation">"ตำแหน่งของคุณใช้เพื่อตรวจจับพฤติกรรมที่อาจเป็นการฉ้อโกงและรักษาบัญชีของคุณให้ปลอดภัย"</string>
+    <string name="tooltipSelfieVideo">"วิดีโอเซลฟี่ของคุณใช้เพื่อให้แน่ใจว่าคุณมีตัวตนและไม่มีใครสามารถปลอมเป็นคุณได้ เราจะเปรียบเทียบภาพเซลฟี่ของคุณกับรูปภาพบนบัตรประชาชนของคุณ"</string>
+    <string name="tryAgain">"ลองอีกครั้ง"</string>
+    <string name="turnCovidVaccinationCard">"พลิกไปที่ด้านหน้าบัตรประวัติฉีดวัคซีนโดย CDC แล้วดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="turnDriversLicenseBack">"พลิกไปด้านหลังใบอนุญาตขับขี่และดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="turnDriversLicenseFront">"พลิกไปที่ด้านหน้าใบอนุญาตขับขี่ของคุณและดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="turnHealthInsuranceBack">"พลิกไปที่ด้านหลังของบัตรประกันสุขภาพและดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="turnHealthInsuranceFront">"พลิกไปด้านหน้าบัตรประกันสุขภาพและดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="turnNationalIDBack">"พลิกไปด้านหลังบัตรประจำตัวประชาชนและดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="turnNationalIDFront">"พลิกไปที่ด้านหน้าของบัตรประจำตัวประชาชนและดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="turnPassport">"เปิดหน้าที่แสดงข้อมูลส่วนบุคคลของคุณและดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="turnProofOfAddress">"พลิกไปด้านหน้าหลักฐานที่อยู่ของคุณและดำเนินการต่อในหน้าจอถัดไป"</string>
+    <string name="type_country">"พิมพ์ประเทศ"</string>
+    <string name="uploadFailed">"อัปโหลดล้มเหลว"</string>
+    <string name="uploaded">"อัปโหลดแล้ว"</string>
+    <string name="verifyMe">"ยืนยันตัวตนฉัน"</string>
+    <string name="yd_tip_close">ปิดตัวลง</string>
+    <string name="yd_tip_init_timeout">การเริ่มต้นล้มเหลวคลิกเพื่อลองอีกครั้ง</string>
+    <string name="yd_tip_load_failed">ไม่สามารถโหลด</string>
+    <string name="yd_tip_loading">การตรวจจับอัจฉริยะ</string>
+    <string name="yd_tip_no_network">เครือข่ายผิดปกติโปรดตรวจสอบเครือข่ายและลองอีกครั้ง</string>
+    <string name="yd_tip_validate_timeout">ตรวจสอบการหมดเวลาโปรดปิดและตรวจสอบเครือข่าย</string>
+</resources>

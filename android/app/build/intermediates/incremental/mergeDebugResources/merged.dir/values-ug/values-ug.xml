@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yd_tip_close">تاقاش</string>
+    <string name="yd_tip_init_timeout">باشلاش ۋاقتى توشقاندىن كېيىن قايتا سىناڭ</string>
+    <string name="yd_tip_load_failed">يۈكلەش مەغلۇب بولدى ، قايتا چېكىڭ</string>
+    <string name="yd_tip_loading">ئەقلىي ئىقتىدارلىق بايقاش</string>
+    <string name="yd_tip_no_network">تور بىنورمال ، تورنى تەكشۈرۈپ قايتا سىناڭ</string>
+    <string name="yd_tip_validate_timeout">دەلىللەش ۋاقتى توشتى ، تورنى تاقاپ تەكشۈرۈپ بېقىڭ</string>
+</resources>

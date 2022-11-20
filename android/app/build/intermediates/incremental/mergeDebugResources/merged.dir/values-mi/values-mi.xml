@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yd_tip_close">katinga</string>
+    <string name="yd_tip_init_timeout">Kua pau te wa arataki, pawhiria te Ngana Anō</string>
+    <string name="yd_tip_load_failed">I rahua te uta, pawhiria kia ngana ano</string>
+    <string name="yd_tip_loading">Te rapunga mohio</string>
+    <string name="yd_tip_no_network">He rereke te whatunga, tirohia te whatunga ka ngana ano</string>
+    <string name="yd_tip_validate_timeout">Kua pau te motuhēhēnga, kati koa ka tirohia te whatunga</string>
+</resources>

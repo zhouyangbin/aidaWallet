@@ -1,0 +1,662 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.aidameta.wallet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" /> <!-- camera permission: -->
+12-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:3:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:5:5-65
+13-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:6:5-71
+14-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:6:22-68
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:7:5-80
+15-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:7:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- camera permission: -->
+16-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:8:5-81
+16-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:8:22-78
+17    <!-- fingerprint permission: -->
+18    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+18-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:11:5-72
+18-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:11:22-69
+19    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+19-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:12:5-74
+19-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:12:22-71
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->[com.facebook.flipper:flipper:0.99.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\2f5725507f1929c6ddf8255f0bef77bd\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:5-76
+20-->[com.facebook.flipper:flipper:0.99.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\2f5725507f1929c6ddf8255f0bef77bd\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:22-73
+21
+22    <uses-feature
+22-->[:react-native-camera] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:11:5-13:36
+23        android:name="android.hardware.camera"
+23-->[:react-native-camera] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:12:9-47
+24        android:required="false" />
+24-->[:react-native-camera] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:13:9-33
+25    <uses-feature
+25-->[:react-native-camera] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:14:5-16:36
+26        android:name="android.hardware.camera.autofocus"
+26-->[:react-native-camera] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:15:9-57
+27        android:required="false" />
+27-->[:react-native-camera] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalDebug\AndroidManifest.xml:16:9-33
+28
+29    <uses-permission android:name="com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER" />
+29-->[:react-native-fingerprint-scanner] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-fingerprint-scanner\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-91
+29-->[:react-native-fingerprint-scanner] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-fingerprint-scanner\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-88
+30    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+30-->[:react-native-fingerprint-scanner] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-fingerprint-scanner\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-117
+30-->[:react-native-fingerprint-scanner] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-fingerprint-scanner\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-114
+31
+32    <queries>
+32-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+33        <intent>
+33-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
+34            <action android:name="android.media.action.IMAGE_CAPTURE" />
+34-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-73
+34-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-70
+35        </intent>
+36        <intent>
+36-->[:react-native-inappbrowser-reborn] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-14:18
+37            <action android:name="android.support.customtabs.action.CustomTabsService" />
+37-->[:react-native-inappbrowser-reborn] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-90
+37-->[:react-native-inappbrowser-reborn] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:21-87
+38        </intent>
+39    </queries>
+40
+41    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+41-->[:react-native-os] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-os\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+41-->[:react-native-os] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-os\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-76
+42    <uses-permission android:name="android.permission.VIBRATE" />
+42-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:14:5-66
+42-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:14:22-63
+43    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+43-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:18:5-82
+43-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:18:22-79
+44    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+44-->[com.android.installreferrer:installreferrer:2.2] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\607b1b1056b8b94044471f1a16a1f9f2\transformed\jetified-installreferrer-2.2\AndroidManifest.xml:9:5-110
+44-->[com.android.installreferrer:installreferrer:2.2] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\607b1b1056b8b94044471f1a16a1f9f2\transformed\jetified-installreferrer-2.2\AndroidManifest.xml:9:22-107
+45
+46    <supports-screens
+46-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:12:5-17:39
+47        android:anyDensity="true"
+47-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:13:9-34
+48        android:largeScreens="true"
+48-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:14:9-36
+49        android:normalScreens="true"
+49-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:15:9-37
+50        android:resizeable="true"
+50-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:16:9-34
+51        android:smallScreens="true" />
+51-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:17:9-36
+52
+53    <uses-permission android:name="android.permission.FLASHLIGHT" />
+53-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:20:5-69
+53-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:20:22-66
+54
+55    <uses-feature
+55-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:28:5-30:36
+56        android:name="android.hardware.camera.flash"
+56-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:29:9-53
+57        android:required="false" />
+57-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:30:9-33
+58    <uses-feature
+58-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:31:5-34:20
+59        android:glEsVersion="0x00020000"
+59-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:32:9-41
+60        android:required="false" >
+60-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:33:9-33
+61    </uses-feature>
+62
+63    <application
+63-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:14:5-60:19
+64        android:name="io.aidameta.wallet.MainApplication"
+64-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:15:7-38
+65        android:allowBackup="false"
+65-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:18:7-34
+66        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+66-->[androidx.core:core:1.6.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\5efa136d6b7a2c594211658eacead3c1\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+67        android:debuggable="true"
+68        android:exported="true"
+68-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:21:7-30
+69        android:icon="@mipmap/ic_launcher"
+69-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:17:7-41
+70        android:label="@string/app_name"
+70-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:16:7-39
+71        android:largeHeap="true"
+71-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:20:7-31
+72        android:launchMode="singleTask"
+72-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:13:9-40
+73        android:requestLegacyExternalStorage="true"
+73-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:19:7-50
+74        android:supportsRtl="true"
+74-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:14:9-35
+75        android:theme="@style/AppTheme"
+75-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:22:7-38
+76        android:usesCleartextTraffic="true" >
+76-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\debug\AndroidManifest.xml:8:9-44
+77        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+77-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\debug\AndroidManifest.xml:11:9-86
+77-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\debug\AndroidManifest.xml:11:19-83
+78        <activity
+78-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:23:9-56:20
+79            android:name="io.aidameta.wallet.MainActivity"
+79-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:24:9-37
+80            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+80-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:26:9-86
+81            android:exported="true"
+81-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:30:9-32
+82            android:label="@string/app_name"
+82-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:25:9-41
+83            android:launchMode="singleTask"
+83-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:27:9-40
+84            android:screenOrientation="portrait"
+84-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:28:9-45
+85            android:windowSoftInputMode="adjustResize" >
+85-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:29:9-51
+86            <intent-filter>
+86-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:32:13-35:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:33:17-69
+87-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:33:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:34:17-77
+89-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:34:27-74
+90            </intent-filter>
+91            <intent-filter>
+91-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:36:13-41:29
+92                <data
+92-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:17-81
+93                    android:host="open"
+93-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:59-78
+94                    android:scheme="wallet.aidameta.io" />
+94-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:23-58
+95
+96                <action android:name="android.intent.action.VIEW" />
+96-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:38:17-69
+96-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:38:25-66
+97
+98                <category android:name="android.intent.category.DEFAULT" />
+98-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:39:17-76
+98-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:39:27-73
+99                <category android:name="android.intent.category.BROWSABLE" />
+99-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:40:17-78
+99-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:40:27-75
+100            </intent-filter>
+101            <intent-filter android:autoVerify="true" >
+101-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:42:13-48:29
+101-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:42:28-53
+102                <action android:name="android.intent.action.VIEW" />
+102-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:38:17-69
+102-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:38:25-66
+103
+104                <category android:name="android.intent.category.DEFAULT" />
+104-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:39:17-76
+104-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:39:27-73
+105                <category android:name="android.intent.category.BROWSABLE" />
+105-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:40:17-78
+105-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:40:27-75
+106
+107                <data
+107-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:17-81
+108                    android:host="lyami.net"
+108-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:59-78
+109                    android:scheme="https" />
+109-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:23-58
+110                <data
+110-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:17-81
+111                    android:host="lyami.net.app.link"
+111-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:59-78
+112                    android:scheme="https" />
+112-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:23-58
+113            </intent-filter>
+114            <intent-filter android:autoVerify="true" >
+114-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:49:13-55:29
+114-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:49:28-53
+115                <action android:name="android.intent.action.VIEW" />
+115-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:38:17-69
+115-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:38:25-66
+116
+117                <category android:name="android.intent.category.DEFAULT" />
+117-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:39:17-76
+117-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:39:27-73
+118                <category android:name="android.intent.category.BROWSABLE" />
+118-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:40:17-78
+118-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:40:27-75
+119
+120                <data
+120-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:17-81
+121                    android:host="lyami.net.app.link"
+121-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:59-78
+122                    android:scheme="https" />
+122-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:23-58
+123                <data
+123-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:17-81
+124                    android:host="lyami.net.app.link"
+124-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:59-78
+125                    android:scheme="https" />
+125-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:23-58
+126            </intent-filter>
+127        </activity>
+128
+129        <meta-data
+129-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:57:9-118
+130            android:name="io.branch.sdk.BranchKey"
+130-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:57:20-58
+131            android:value="key_live_kaFuWw8WvY7yn1d9yYiP8gokwqjV0Sw" />
+131-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:57:59-115
+132        <meta-data
+132-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:58:9-123
+133            android:name="io.branch.sdk.BranchKey.test"
+133-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:58:20-63
+134            android:value="key_test_hlxrWC5Zx16DkYmWu4AHiimdqugRYMr" />
+134-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:58:64-120
+135        <meta-data
+135-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:59:9-82
+136            android:name="io.branch.sdk.TestMode"
+136-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:59:20-57
+137            android:value="false" />
+137-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:59:58-79
+138
+139        <provider
+139-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+140            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+140-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-83
+141            android:authorities="io.aidameta.wallet.fileprovider"
+141-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-64
+142            android:exported="false"
+142-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+143            android:grantUriPermissions="true" >
+143-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+144            <meta-data
+144-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:63
+145                android:name="android.support.FILE_PROVIDER_PATHS"
+145-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+146                android:resource="@xml/file_provider_paths" />
+146-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-60
+147        </provider>
+148        <provider
+148-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
+149            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+149-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-94
+150            android:authorities="io.aidameta.wallet.provider"
+150-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
+151            android:exported="false"
+151-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+152            android:grantUriPermissions="true" >
+152-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
+153            <meta-data
+153-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:63
+154                android:name="android.support.FILE_PROVIDER_PATHS"
+154-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+155                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+155-->[:react-native-webview] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-60
+156        </provider>
+157
+158        <activity
+158-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
+159            android:name="com.yalantis.ucrop.UCropActivity"
+159-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
+160            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+160-->[:react-native-image-crop-picker] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
+161        <activity
+161-->[:react-native-inappbrowser-reborn] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-21:20
+162            android:name="com.proyecto26.inappbrowser.ChromeTabsManagerActivity"
+162-->[:react-native-inappbrowser-reborn] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-81
+163            android:exported="false" >
+163-->[:react-native-inappbrowser-reborn] C:\Users\123\Desktop\LBJProject\aries-wallet-client\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-37
+164        </activity>
+165        <activity
+165-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:15:9-29:20
+166            android:name="network.ramp.sdk.ui.activity.RampWidgetActivity"
+166-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:16:13-75
+167            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+167-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:17:13-122
+168            android:launchMode="singleTask"
+168-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:18:13-44
+169            android:theme="@style/RampInstant.NoActionBar"
+169-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:19:13-59
+170            android:windowSoftInputMode="adjustResize" >
+170-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:20:13-55
+171            <intent-filter>
+171-->[com.github.RampNetwork:ramp-sdk-android:1.3.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c0d1764e71cb99459f13e996af3d230f\transformed\jetified-ramp-sdk-android-1.3.1\AndroidManifest.xml:21:13-28:29
+172                <action android:name="android.intent.action.VIEW" />
+172-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:38:17-69
+172-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:38:25-66
+173
+174                <category android:name="android.intent.category.DEFAULT" />
+174-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:39:17-76
+174-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:39:27-73
+175                <category android:name="android.intent.category.BROWSABLE" />
+175-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:40:17-78
+175-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:40:27-75
+176
+177                <data android:scheme="ramp" />
+177-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:17-81
+177-->C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\app\src\main\AndroidManifest.xml:37:23-58
+178            </intent-filter>
+179        </activity>
+180        <activity
+180-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:27:9-30:66
+181            android:name="com.passbase.passbase_sdk.ui.animation_screen.AnimationScreen"
+181-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:28:13-89
+182            android:screenOrientation="portrait"
+182-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:29:13-49
+183            android:theme="@style/Theme.AppCompat.NoActionBar" />
+183-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:30:13-63
+184        <activity
+184-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:31:9-34:66
+185            android:name="com.passbase.passbase_sdk.ui.start_screen.StartScreen"
+185-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:32:13-81
+186            android:screenOrientation="portrait"
+186-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:33:13-49
+187            android:theme="@style/Theme.AppCompat.NoActionBar" />
+187-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:34:13-63
+188        <activity
+188-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:35:9-38:66
+189            android:name="com.passbase.passbase_sdk.ui.consent_screen.ConsentScreen"
+189-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:36:13-85
+190            android:screenOrientation="portrait"
+190-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:37:13-49
+191            android:theme="@style/Theme.AppCompat.NoActionBar" />
+191-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:38:13-63
+192        <activity
+192-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:39:9-43:67
+193            android:name="com.passbase.passbase_sdk.ui.email_screen.EmailScreen"
+193-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:40:13-81
+194            android:screenOrientation="portrait"
+194-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:41:13-49
+195            android:theme="@style/Theme.AppCompat.NoActionBar"
+195-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:42:13-63
+196            android:windowSoftInputMode="stateHidden|adjustPan" />
+196-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:43:13-64
+197        <activity
+197-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:44:9-47:66
+198            android:name="com.passbase.passbase_sdk.ui.liveness_check.LivenessScreen"
+198-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:45:13-86
+199            android:screenOrientation="portrait"
+199-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:46:13-49
+200            android:theme="@style/Theme.AppCompat.NoActionBar" />
+200-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:47:13-63
+201        <activity
+201-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:48:9-51:66
+202            android:name="com.passbase.passbase_sdk.ui.liveness_manual.LivenessManualActivity"
+202-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:49:13-95
+203            android:screenOrientation="portrait"
+203-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:50:13-49
+204            android:theme="@style/Theme.AppCompat.NoActionBar" />
+204-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:51:13-63
+205        <activity
+205-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:52:9-56:67
+206            android:name="com.passbase.passbase_sdk.ui.country.CountryScreen"
+206-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:53:13-78
+207            android:screenOrientation="portrait"
+207-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:54:13-49
+208            android:theme="@style/Theme.AppCompat.NoActionBar"
+208-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:55:13-63
+209            android:windowSoftInputMode="stateHidden|adjustPan" />
+209-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:56:13-64
+210        <activity
+210-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:57:9-60:66
+211            android:name="com.passbase.passbase_sdk.ui.identity_document_check.IdentityDocumentScreen"
+211-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:58:13-103
+212            android:screenOrientation="portrait"
+212-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:59:13-49
+213            android:theme="@style/Theme.AppCompat.NoActionBar" />
+213-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:60:13-63
+214        <activity
+214-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:61:9-64:66
+215            android:name="com.passbase.passbase_sdk.ui.additional_document_verification.AdditionalDocumentVerificationScreen"
+215-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:62:13-126
+216            android:screenOrientation="portrait"
+216-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:63:13-49
+217            android:theme="@style/Theme.AppCompat.NoActionBar" />
+217-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:64:13-63
+218        <activity
+218-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:65:9-68:66
+219            android:name="com.passbase.passbase_sdk.ui.uploading.UploadingScreen"
+219-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:66:13-82
+220            android:screenOrientation="portrait"
+220-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:67:13-49
+221            android:theme="@style/Theme.AppCompat.NoActionBar" />
+221-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:68:13-63
+222        <activity
+222-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:69:9-72:66
+223            android:name="com.passbase.passbase_sdk.ui.finish.FinishScreen"
+223-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:70:13-76
+224            android:screenOrientation="portrait"
+224-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:71:13-49
+225            android:theme="@style/Theme.AppCompat.NoActionBar" />
+225-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:72:13-63
+226        <activity
+226-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:73:9-76:66
+227            android:name="com.passbase.passbase_sdk.ui.microblink.Microbl"
+227-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:74:13-75
+228            android:screenOrientation="portrait"
+228-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:75:13-49
+229            android:theme="@style/Theme.AppCompat.NoActionBar" />
+229-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:76:13-63
+230        <activity
+230-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:77:9-80:66
+231            android:name="com.passbase.passbase_sdk.ui.microblink_manual.MicroblinkManualActivity"
+231-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:78:13-99
+232            android:screenOrientation="portrait"
+232-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:79:13-49
+233            android:theme="@style/Theme.AppCompat.NoActionBar" />
+233-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:80:13-63
+234        <activity
+234-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:81:9-84:66
+235            android:name="com.passbase.passbase_sdk.ui.error.ErrorScreen"
+235-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:82:13-74
+236            android:screenOrientation="portrait"
+236-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:83:13-49
+237            android:theme="@style/Theme.AppCompat.NoActionBar" />
+237-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:84:13-63
+238        <activity
+238-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:85:9-88:66
+239            android:name="com.passbase.passbase_sdk.ui.close_confirmation.CloseConfirmationScreen"
+239-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:86:13-99
+240            android:screenOrientation="portrait"
+240-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:87:13-49
+241            android:theme="@style/Theme.AppCompat.NoActionBar" />
+241-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:88:13-63
+242        <activity
+242-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:89:9-92:66
+243            android:name="com.passbase.passbase_sdk.ui.reauth.reauth_error.ReAuthErrorScreen"
+243-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:90:13-94
+244            android:screenOrientation="portrait"
+244-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:91:13-49
+245            android:theme="@style/Theme.AppCompat.NoActionBar" />
+245-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:92:13-63
+246        <activity
+246-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:93:9-96:66
+247            android:name="com.passbase.passbase_sdk.ui.reauth.reauth_email.ReAuthEmailScreen"
+247-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:94:13-94
+248            android:screenOrientation="portrait"
+248-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:95:13-49
+249            android:theme="@style/Theme.AppCompat.NoActionBar" />
+249-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:96:13-63
+250        <activity
+250-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:97:9-100:66
+251            android:name="com.passbase.passbase_sdk.ui.reauth.reauth_email_error.ReAuthPreEmailErrorScreen"
+251-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:98:13-108
+252            android:screenOrientation="portrait"
+252-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:99:13-49
+253            android:theme="@style/Theme.AppCompat.NoActionBar" />
+253-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:100:13-63
+254        <activity
+254-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:101:9-104:66
+255            android:name="com.passbase.passbase_sdk.ui.reusable_resource.IdentityDocumentCheckScreen"
+255-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:102:13-102
+256            android:screenOrientation="portrait"
+256-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:103:13-49
+257            android:theme="@style/Theme.AppCompat.NoActionBar" />
+257-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:104:13-63
+258
+259        <meta-data
+259-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:106:9-108:36
+260            android:name="com.google.mlkit.vision.DEPENDENCIES"
+260-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:107:13-64
+261            android:value="face" />
+261-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:108:13-33
+262
+263        <provider
+263-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:110:9-112:69
+264            android:name="com.passbase.passbase_sdk.PBInitProvider"
+264-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:111:13-68
+265            android:authorities="io.aidameta.wallet.PBInitProvider" />
+265-->[com.passbase:passbase_sdk:2.7.8] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\c7253e7eaf5769c54b1ddb978e2f56bc\transformed\jetified-passbase_sdk-2.7.8\AndroidManifest.xml:112:13-66
+266
+267        <activity
+267-->[com.nbsp:materialfilepicker:1.9.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\8cdde5d8051e7b3210c423a8541b1a43\transformed\jetified-materialfilepicker-1.9.1\AndroidManifest.xml:14:9-17:20
+268            android:name="com.nbsp.materialfilepicker.ui.FilePickerActivity"
+268-->[com.nbsp:materialfilepicker:1.9.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\8cdde5d8051e7b3210c423a8541b1a43\transformed\jetified-materialfilepicker-1.9.1\AndroidManifest.xml:15:13-77
+269            android:theme="@style/MFP_BaseTheme" >
+269-->[com.nbsp:materialfilepicker:1.9.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\8cdde5d8051e7b3210c423a8541b1a43\transformed\jetified-materialfilepicker-1.9.1\AndroidManifest.xml:16:13-49
+270        </activity>
+271        <activity
+271-->[androidx.biometric:biometric:1.0.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\6fe2c6813f49ded38c90372f315a6bbe\transformed\biometric-1.0.1\AndroidManifest.xml:28:9-31:67
+272            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
+272-->[androidx.biometric:biometric:1.0.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\6fe2c6813f49ded38c90372f315a6bbe\transformed\biometric-1.0.1\AndroidManifest.xml:29:13-78
+273            android:exported="true"
+273-->[androidx.biometric:biometric:1.0.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\6fe2c6813f49ded38c90372f315a6bbe\transformed\biometric-1.0.1\AndroidManifest.xml:30:13-36
+274            android:theme="@style/DeviceCredentialHandlerTheme" />
+274-->[androidx.biometric:biometric:1.0.1] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\6fe2c6813f49ded38c90372f315a6bbe\transformed\biometric-1.0.1\AndroidManifest.xml:31:13-64
+275
+276        <service
+276-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\bf0a3b530326e5a0db06581731e98dd4\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:9:9-15:19
+277            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+277-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\bf0a3b530326e5a0db06581731e98dd4\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:10:13-91
+278            android:directBootAware="true"
+278-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:17:13-43
+279            android:exported="false" >
+279-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\bf0a3b530326e5a0db06581731e98dd4\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:11:13-37
+280            <meta-data
+280-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\bf0a3b530326e5a0db06581731e98dd4\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:12:13-14:85
+281                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
+281-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\bf0a3b530326e5a0db06581731e98dd4\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:13:17-120
+282                android:value="com.google.firebase.components.ComponentRegistrar" />
+282-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\bf0a3b530326e5a0db06581731e98dd4\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:14:17-82
+283            <meta-data
+283-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\8117efe406658e934d36f1d7a562219f\transformed\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:12:13-14:85
+284                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+284-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\8117efe406658e934d36f1d7a562219f\transformed\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:13:17-114
+285                android:value="com.google.firebase.components.ComponentRegistrar" />
+285-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\8117efe406658e934d36f1d7a562219f\transformed\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:14:17-82
+286            <meta-data
+286-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\5db78a234ab47aefcf2b5b21d61f5ce5\transformed\jetified-play-services-mlkit-text-recognition-16.3.0\AndroidManifest.xml:12:13-14:85
+287                android:name="com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar"
+287-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\5db78a234ab47aefcf2b5b21d61f5ce5\transformed\jetified-play-services-mlkit-text-recognition-16.3.0\AndroidManifest.xml:13:17-114
+288                android:value="com.google.firebase.components.ComponentRegistrar" />
+288-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\5db78a234ab47aefcf2b5b21d61f5ce5\transformed\jetified-play-services-mlkit-text-recognition-16.3.0\AndroidManifest.xml:14:17-82
+289            <meta-data
+289-->[com.google.mlkit:vision-common:16.5.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\2938b3a569aeabb9018b2aa9bf029884\transformed\jetified-vision-common-16.5.0\AndroidManifest.xml:12:13-14:85
+290                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+290-->[com.google.mlkit:vision-common:16.5.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\2938b3a569aeabb9018b2aa9bf029884\transformed\jetified-vision-common-16.5.0\AndroidManifest.xml:13:17-124
+291                android:value="com.google.firebase.components.ComponentRegistrar" />
+291-->[com.google.mlkit:vision-common:16.5.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\2938b3a569aeabb9018b2aa9bf029884\transformed\jetified-vision-common-16.5.0\AndroidManifest.xml:14:17-82
+292            <meta-data
+292-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:20:13-22:85
+293                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+293-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:21:17-120
+294                android:value="com.google.firebase.components.ComponentRegistrar" />
+294-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:22:17-82
+295        </service>
+296
+297        <provider
+297-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:9:9-13:38
+298            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+298-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:10:13-78
+299            android:authorities="io.aidameta.wallet.mlkitinitprovider"
+299-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:11:13-69
+300            android:exported="false"
+300-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:12:13-37
+301            android:initOrder="99" />
+301-->[com.google.mlkit:common:17.2.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d92bcde582c7cec9e65cec75467480f6\transformed\jetified-common-17.2.0\AndroidManifest.xml:13:13-35
+302
+303        <service
+303-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\a0e40bdc1ba615c480eeb4e284f3d2c5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+304            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+304-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\a0e40bdc1ba615c480eeb4e284f3d2c5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+305            android:exported="false" >
+305-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\a0e40bdc1ba615c480eeb4e284f3d2c5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+306            <meta-data
+306-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\a0e40bdc1ba615c480eeb4e284f3d2c5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+307                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+307-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\a0e40bdc1ba615c480eeb4e284f3d2c5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+308                android:value="cct" />
+308-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\a0e40bdc1ba615c480eeb4e284f3d2c5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+309        </service>
+310        <service
+310-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\deb31f6b92dbdb7e7d528a640e494dc6\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+311            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+311-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\deb31f6b92dbdb7e7d528a640e494dc6\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+312            android:exported="false"
+312-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\deb31f6b92dbdb7e7d528a640e494dc6\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+313            android:permission="android.permission.BIND_JOB_SERVICE" >
+313-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\deb31f6b92dbdb7e7d528a640e494dc6\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+314        </service>
+315
+316        <receiver
+316-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\deb31f6b92dbdb7e7d528a640e494dc6\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+317            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+317-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\deb31f6b92dbdb7e7d528a640e494dc6\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+318            android:exported="false" />
+318-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\deb31f6b92dbdb7e7d528a640e494dc6\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+319
+320        <activity
+320-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\dae511b76fc5abe0b43b7dfd722fa90e\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:23:9-26:75
+321            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+321-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\dae511b76fc5abe0b43b7dfd722fa90e\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:24:13-79
+322            android:exported="false"
+322-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\dae511b76fc5abe0b43b7dfd722fa90e\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:25:13-37
+323            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+323-->[com.google.android.gms:play-services-base:17.6.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\dae511b76fc5abe0b43b7dfd722fa90e\transformed\jetified-play-services-base-17.6.0\AndroidManifest.xml:26:13-72
+324
+325        <meta-data
+325-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\060dff7644d80534b68ae20379930fc6\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+326            android:name="com.google.android.gms.version"
+326-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\060dff7644d80534b68ae20379930fc6\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+327            android:value="@integer/google_play_services_version" />
+327-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\060dff7644d80534b68ae20379930fc6\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+328
+329        <activity
+329-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:39:9-43:20
+330            android:name="com.microblink.activity.DocumentScanActivity"
+330-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:40:13-72
+331            android:configChanges="orientation|screenSize"
+331-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:41:13-59
+332            android:screenOrientation="nosensor" >
+332-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:42:13-49
+333        </activity>
+334        <activity
+334-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:44:9-48:20
+335            android:name="com.microblink.activity.DocumentVerificationActivity"
+335-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:45:13-80
+336            android:configChanges="orientation|screenSize"
+336-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:46:13-59
+337            android:screenOrientation="nosensor" >
+337-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:47:13-49
+338        </activity>
+339        <activity
+339-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:49:9-53:20
+340            android:name="com.microblink.activity.BlinkIdActivity"
+340-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:50:13-67
+341            android:configChanges="orientation|screenSize"
+341-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:51:13-59
+342            android:screenOrientation="sensor" >
+342-->[com.microblink:blinkid:5.11.0] C:\Users\123\Desktop\LBJProject\aries-wallet-client\android\%GRADLE_HOME%\bin\caches\transforms-3\d7f4587a7841654ae40c3f54cba34ab3\transformed\jetified-blinkid-5.11.0\AndroidManifest.xml:52:13-47
+343        </activity>
+344    </application>
+345
+346</manifest>

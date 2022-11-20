@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="COVID_VACCINATION_CARD">"Karta szczepień COVID."</string>
+    <string name="DRIVERS_LICENSE">"Prawo jazdy"</string>
+    <string name="HEALTH_INSURANCE_CARD">"Karta ubezpieczenia zdrowotnego"</string>
+    <string name="HEALTH_INSURANCE_CARD_US">"Karta ubezpieczenia zdrowotnego"</string>
+    <string name="NATIONAL_ID_CARD">"Krajowy dokument tożsamości"</string>
+    <string name="PASSPORT">"Paszport"</string>
+    <string name="PROOF_OF_ADDRESS">"Potwierdzenie adresu"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Przejdź na stronę główną"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaż wszystko"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"WŁ."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zapytanie"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string msgid="6241458715391513061" name="accessibility_fingerprint_dialog_help_area">"Obszar komunikatu pomocy"</string>
+    <string name="agreeToTerms">"Zaakceptuj zasady i warunki"</string>
+    <string name="back">"tył"</string>
+    <string name="bulletCovidVaccinationCardVisible">"Zdjęcie na Twojej karcie szczepień CDC jest widoczne."</string>
+    <string name="bulletDocumentVisible">"Cały dokument jest widoczny."</string>
+    <string name="bulletDriversLicenseVisible">"Zdjęcie na prawie jazdy jest widoczne."</string>
+    <string name="bulletHealthInsuranceVisible">"Zdjęcie na karcie ubezpieczenia zdrowotnego jest widoczne."</string>
+    <string name="bulletNationalIDVisible">"Zdjęcie na dowodzie osobistym jest widoczne."</string>
+    <string name="bulletPassportVisible">"Zdjęcie na paszporcie jest widoczne."</string>
+    <string name="bulletProofOfAddressVisible">"Zdjęcie na dokumencie potwierdzającym adres jest widoczne."</string>
+    <string name="bulletReadable">"Dane na {documentType} są czytelne."</string>
+    <string name="cameraPermissions">"Aby kontynuować, zezwól na dostęp do aparatu."</string>
+    <string name="cameraPermissionsErrorMobile">"Aby kontynuować weryfikację, potrzebujemy dostępu do Twojego aparatu.
+Upewnij się, że zezwolono na dostęp, i kliknij Ponów."</string>
+    <string name="cancel">"Tak, anuluj"</string>
+    <string name="challengeFarDistancePrompt">"Przesuń twarz dalej w tej ramce."</string>
+    <string name="challengeFinishSuccess">"Dobra robota!"</string>
+    <string name="challengeHintInitialization">"Przygotuj się na wyzwanie"</string>
+    <string name="challengeHintPendingNoFace">"Nie udało się wykryć twarzy"</string>
+    <string name="challengeHintPendingOffDownd">"Trochę w górę"</string>
+    <string name="challengeHintPendingOffLeft">"Trochę w prawo"</string>
+    <string name="challengeHintPendingOffRight">"Trochę w lewo"</string>
+    <string name="challengeHintPendingOffUp">"Trochę w dół"</string>
+    <string name="challengeHintPendingTooClose">"Przesuń się dalej"</string>
+    <string name="challengeHintPendingTooFar">"Przysuń się bliżej"</string>
+    <string name="challengeHintValidatedSuccessFrst">"Jeszcze jedno wyzwanie"</string>
+    <string name="challengeHintValidatedSuccessLast">"To wszystko!"</string>
+    <string name="challengeHintValidation">"Zatwierdzanie"</string>
+    <string name="challengeInitializer">"Umieść twarz w okręgu."</string>
+    <string name="challengeInstructionInitialization">"Świetnie, zaczynamy!"</string>
+    <string name="challengeInstructionPending">"Dopasuj do okręgów"</string>
+    <string name="challengeInstructionTimeout">"Czas upłynął"</string>
+    <string name="challengeInstructionValidatedSuccess">"Dobra robota!"</string>
+    <string name="challengeInstructionValidation">"Świetnie, poczekaj"</string>
+    <string name="challengeStartPromt">"Przesuń twarz bliżej środka ramki."</string>
+    <string name="challengeStartSuccess">"Znakomicie, zaczynamy."</string>
+    <string name="challengeTimeout">"Czas minął. Spróbuj ponownie."</string>
+    <string name="challengeValidation">"Świetnie, zatrzymaj przez kilka sekund."</string>
+    <string name="close">"Zamknij"</string>
+    <string name="closeStepSubtitle">"Może mieć to wpływ na Twój dostęp do usługi. Czy na pewno chcesz to zrobić?"</string>
+    <string name="closeStepTitle">"Anulować weryfikację?"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Włącz"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie włączysz Usług Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Włącz Usługi Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Zainstaluj"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zainstalujesz na urządzeniu Usług Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Pobierz Usługi Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Dostępność Usług Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Błąd Usług Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które nie są obecnie obsługiwane przez urządzenie."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizuj"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zaktualizujesz Usług Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Zaktualizuj Usługi Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które są obecnie aktualizowane."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Wymagana jest nowa wersja Usług Google Play. Wkrótce nastąpi automatyczna aktualizacja."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otwórz na telefonie"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Zaloguj się"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Zaloguj się przez Google"</string>
+    <string name="confirm">"Tak, potwierdź"</string>
+    <string name="confirmButton">"Potwierdź"</string>
+    <string msgid="4296851028928624518" name="confirm_device_credential_password">"Użyj hasła"</string>
+    <string name="consentBulletLight">"Zadbaj o dobre oświetlenie do nagrania filmiku selfie"</string>
+    <string name="consentOr">"albo"</string>
+    <string name="consentSecurityFooter">"Klikając „Kontynuuj”, zgadzasz się na &lt;terms>Warunki korzystania&lt;/terms> z Passbase i akceptujesz naszą &lt;privacy>Politykę prywatności&lt;/privacy>. Przyjmujesz również do wiadomości, że polecasz Passbase udostępnianie informacji, które podajesz {organization}. Twoje dane osobowe będą również podlegać Polityce prywatności {organization}, a Passbase nie ponosi odpowiedzialności za przetwarzanie Twoich danych osobowych przez {organization}."</string>
+    <string name="consentTitle">"Przygotuj się do weryfikacji"</string>
+    <string name="continueButton">"Kontynuuj"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link skopiowany do schowka"</string>
+    <string name="countriesCount">"224 KRAJE W KOLEJNOŚCI ALFABETYCZNEJ"</string>
+    <string name="countrySelectionSubtitle">"Wybierz kraj z rozwijanej listy."</string>
+    <string name="countrySelectionTitle">"Z jakiego kraju pochodzi Twój dokument?"</string>
+    <string msgid="7497355367608150274" name="default_error_msg">"Nieznany błąd"</string>
+    <string name="demoUiMode">"TRYB DEMO INTERFEJSU UŻYTKOWNIKA"</string>
+    <string name="docsList">"Przygotuj paszport, prawo jazdy lub krajowy dokument tożsamości"</string>
+    <string name="driversLicenseCheck">"Weryfikacja prawa jazdy"</string>
+    <string name="emailErrorMessage">"Podaj prawidłowy adres e-mail."</string>
+    <string name="emailPlaceholder">"twój@e-mail.com"</string>
+    <string name="error">"Błąd"</string>
+    <string name="faceChallengeEmailSubtitle">"Jeśli nie, możesz zacząć od nowa, aby wprowadzić poprawny adres e-mail"</string>
+    <string name="faceChallengeEmailTitle">"Czy {email} to Twój adres e-mail?"</string>
+    <string name="faceChallengeRetryFailedTitle">"Uwierzytelnienie nie powiodło się."</string>
+    <string name="faceChallengeRetrySubtitle">"Kliknij przycisk „Ponów próbę” i upewnij się, że twarz jest dobrze oświetlona."</string>
+    <string name="faceChallengeRetryTitle">"Nie mogliśmy dokonać uwierzytelnienia Twojej osoby."</string>
+    <string name="faceVerificationExplanationSubtitleZoom">"Zadbaj o dobre oświetlenie i wykonaj instrukcje podane na kolejnym ekranie"</string>
+    <string name="faceVerificationExplanationTitleZoom">"Przygotuj się do nagrania filmiku selfie"</string>
+    <string name="facetec_liveness_passed">"Test żywotności zaliczony"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopiuj link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Otwórz w przeglądarce"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Udostępnij link"</string>
+    <string msgid="5354590751262189738" name="fingerprint_dialog_touch_sensor">"Dotknij czytnika linii papilarnych"</string>
+    <string msgid="3976825677335166260" name="fingerprint_error_hw_not_available">"Czytnik linii papilarnych nie jest dostępny."</string>
+    <string msgid="1176237289575184578" name="fingerprint_error_hw_not_present">"To urządzenie nie jest wyposażone w czytnik linii papilarnych"</string>
+    <string msgid="1651062876313169162" name="fingerprint_error_lockout">"Zbyt wiele prób. Spróbuj ponownie później."</string>
+    <string msgid="3350805046152877040" name="fingerprint_error_no_fingerprints">"Nie zarejestrowano odcisków palców."</string>
+    <string msgid="3421037373085129417" name="fingerprint_error_user_canceled">"Odczyt odcisku palca został anulowany przez użytkownika."</string>
+    <string msgid="5491287833813257925" name="fingerprint_not_recognized">"Nie rozpoznano"</string>
+    <string name="finish">"Zakończ"</string>
+    <string name="finishedSubtitle">"Dziękujemy. Przetwarzamy teraz Twoje dane weryfikacyjne."</string>
+    <string name="finishedTitle">"Wysłano dane weryfikacyjne"</string>
+    <string name="front">"przód"</string>
+    <string msgid="7474799539658018076" name="generic_error_user_canceled">"Użytkownik anulował uwierzytelnianie."</string>
+    <string name="goBack">"Nie, wróć"</string>
+    <string name="identificationChoiceSubtitle">"Wybierz typ dokumentu z rozwijanej listy."</string>
+    <string name="identificationChoiceTitle">"Jaki dokument zeskanujesz?"</string>
+    <string name="livenessFailedSubtitle">"(1) Upewnij się, że Twoja twarz jest dobrze i równomiernie oświetlona. (2) Usuń wszelkie osłony, takie jak czapki, okulary przeciwsłoneczne czy słuchawki."</string>
+    <string name="livenessFailedTitle">"Identyfikacja nie powiodła się."</string>
+    <string name="loggedIn">"Potwierdzono Twoją tożsamość"</string>
+    <string name="loginSubtitle">"Aby mieć pewność, że weryfikacja zakończy się powodzeniem, użyj swojego głównego adresu e-mail."</string>
+    <string name="loginTitle">"Podaj swój adres e-mail"</string>
+    <string name="mb_help_button">"Potrzebujesz pomocy? Kliknij tutaj."</string>
+    <string name="nationalIdCheck">"Weryfikacja dowodu osobistego"</string>
+    <string name="nationalityMessage">"Wybierz swoją narodowość"</string>
+    <string name="networkError">"Coś poszło nie tak."</string>
+    <string name="not_accepted">"(nieakceptowany)"</string>
+    <string name="not_available">"(niedostępny)"</string>
+    <string name="ok">"OK"</string>
+    <string name="outOfCreditsMobile">"Na Twoim koncie nie ma środków."</string>
+    <string name="passportCheck">"Weryfikacja paszportu"</string>
+    <string name="passportVerificationExplanationSubtitle">"Otwórz stronę z Twoimi danymi osobowymi i kontynuuj na kolejnym ekranie."</string>
+    <string name="passportVerificationExplanationTitle">"Przygotuj się do zeskanowania paszportu"</string>
+    <string name="pictureUserConfirmationTitle">"Czy możesz potwierdzić następujące informacje?"</string>
+    <string name="prepareCovidVaccinationCard">"Przygotuj się do zeskanowania przodu karty szczepień CDC."</string>
+    <string name="prepareDriversLicenseBack">"Przygotuj się do skanowania tylnej strony prawa jazdy"</string>
+    <string name="prepareDriversLicenseFront">"Przygotuj się do skanowania przedniej strony prawa jazdy"</string>
+    <string name="prepareHealthInsuranceBack">"Przygotuj się do skanowania tylnej strony karty ubezpieczenia zdrowotnego"</string>
+    <string name="prepareHealthInsuranceFront">"Przygotuj się do skanowania przedniej strony karty ubezpieczenia zdrowotnego"</string>
+    <string name="prepareNationalIDBack">"Przygotuj się do skanowania tylnej strony dowodu osobistego"</string>
+    <string name="prepareNationalIDFront">"Przygotuj się do skanowania przedniej strony dowodu osobistego"</string>
+    <string name="preparePassport">"Przygotuj się do skanowania paszportu"</string>
+    <string name="prepareProofOfAddress">"Przygotuj się do skanowania dokumentu potwierdzającego adres"</string>
+    <string name="redo">"Nie, spróbuj ponownie"</string>
+    <string name="retryFaceChallengeCta">"Ponów próbę"</string>
+    <string name="retryFaceChallengeEmailCta">"Tak, ponów próbę"</string>
+    <string name="retryFaceChallengeRedoEmailCta">"Nie, wpisz ponownie"</string>
+    <string name="reuseResourceInfoText">"Wybierając powyższe zasoby tożsamości, możesz skrócić proces. W razie potrzeby może być konieczne przygotowanie dodatkowych dokumentów."</string>
+    <string name="reuseResourceSecondTitle">"Udostępnij istniejące dokumenty tożsamości"</string>
+    <string name="reuseResourceTitle">"Witamy ponownie. Udostępniaj wcześniej przesłane dokumenty, aby przyspieszyć proces"</string>
+    <string name="reuseResourceTooltip">"Wcześniej udostępniłeś ten dokument tożsamości, który można teraz ponownie wykorzystać, aby przyspieszyć proces weryfikacji."</string>
+    <string name="scanCovidVaccinationCard">"Zeskanuj przód karty szczepień CDC."</string>
+    <string name="scanDriversLicenseBack">"Zeskanuj tylną stronę prawa jazdy"</string>
+    <string name="scanDriversLicenseFront">"Zeskanuj przednią stronę prawa jazdy"</string>
+    <string name="scanHealthInsuranceBack">"Zeskanuj tylną stronę karty ubezpieczenia zdrowotnego"</string>
+    <string name="scanHealthInsuranceFront">"Zeskanuj przednią stronę karty ubezpieczenia zdrowotnego"</string>
+    <string name="scanNationalIDBack">"Zeskanuj tylną stronę dowodu osobistego"</string>
+    <string name="scanNationalIDFront">"Zeskanuj przednią stronę dowodu osobistego"</string>
+    <string name="scanPassport">"Zeskanuj paszport"</string>
+    <string name="scanProofOfAddress">"Zeskanuj dokument potwierdzający adres"</string>
+    <string name="scanToolTip">"Zeskanuj dokument"</string>
+    <string name="scan_manually_button">"Zeskanuj ręcznie"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Szukaj"</string>
+    <string name="securedBy">"zabezpieczony przez"</string>
+    <string name="session_expired">"Twoja sesja wygasła, rozpocznij od nowa."</string>
+    <string name="start">"Rozpocznij"</string>
+    <string name="startInfoExplanationSubtitle">"Przeprowadzimy Cię przez prostą procedurę, która pozwoli na weryfikację Twojej tożsamości."</string>
+    <string name="startInfoExplanationTitle">"Rozpocznij weryfikację"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="summaryDocument">"%@ Dokument"</string>
+    <string name="summaryEmail">"Adres e-mail"</string>
+    <string name="summaryLocation">"Aktualna lokalizacja"</string>
+    <string name="summarySelfieVideo">"Filmik selfie"</string>
+    <string name="summaryTitle">"Bezpiecznie przenieś swoje dane"</string>
+    <string name="tooltipAdditionalDocument">"Dokument ten dostarcza weryfikatorowi dodatkowych danych, które wzbogacają konkretne punkty dotyczące Twojej tożsamości."</string>
+    <string name="tooltipDocument">"Twój dokument tożsamości potwierdza, że jesteś osobą, za którą się podajesz."</string>
+    <string name="tooltipEmail">"Twój e-mail umożliwia nam przesłanie Ci potwierdzenia, a Tobie pozwala śledzić, kto posiada Twoje dane."</string>
+    <string name="tooltipLocation">"Twoja lokalizacja służy do wykrywania jakichkolwiek potencjalnych nadużyć i ochrony Twojego konta."</string>
+    <string name="tooltipSelfieVideo">"Twój filmik selfie potwierdza Twoją fizyczną obecność i gwarantuje, że nikt się pod Ciebie nie podszywa. Porównamy selfie ze zdjęciem w Twoim dokumencie tożsamości."</string>
+    <string name="tryAgain">"Spróbuj ponownie"</string>
+    <string name="turnCovidVaccinationCard">"Obróć kartę szczepień przodem i przejdź do następnego ekranu."</string>
+    <string name="turnDriversLicenseBack">"Nakieruj na tylną stronę prawa jazdy i przejdź do następnego ekranu."</string>
+    <string name="turnDriversLicenseFront">"Nakieruj na przednią stronę prawa jazdy i przejdź do następnego ekranu."</string>
+    <string name="turnHealthInsuranceBack">"Nakieruj na tylną stronę karty ubezpieczenia zdrowotnego i przejdź do następnego ekranu."</string>
+    <string name="turnHealthInsuranceFront">"Nakieruj na przednią stronę karty ubezpieczenia zdrowotnego i przejdź do następnego ekranu."</string>
+    <string name="turnNationalIDBack">"Nakieruj na tylną stronę dowodu osobistego i przejdź do następnego ekranu."</string>
+    <string name="turnNationalIDFront">"Nakieruj na przednią stronę dowodu osobistego i przejdź do następnego ekranu."</string>
+    <string name="turnPassport">"Otwórz stronę z danymi osobowymi i przejdź do następnego ekranu."</string>
+    <string name="turnProofOfAddress">"Nakieruj na przednią stronę dokumentu potwierdzającego adres i przejdź do następnego ekranu."</string>
+    <string name="type_country">"Wpisz kraj"</string>
+    <string name="uploadFailed">"Przesyłanie nie powiodło się"</string>
+    <string name="uploaded">"przesłano"</string>
+    <string name="verifyMe">"Zweryfikuj mnie"</string>
+    <string name="yd_tip_close">blisko</string>
+    <string name="yd_tip_init_timeout">Limit czasu sieci, kliknij ponów</string>
+    <string name="yd_tip_load_failed">Ładowanie nie powiodło się</string>
+    <string name="yd_tip_loading">Inteligentne wykrywanie</string>
+    <string name="yd_tip_no_network">Sieć jest nienormalna. Sprawdź sieć i spróbuj ponownie.</string>
+    <string name="yd_tip_validate_timeout">Sprawdź limit czasu, zamknij i sprawdź sieć</string>
+</resources>

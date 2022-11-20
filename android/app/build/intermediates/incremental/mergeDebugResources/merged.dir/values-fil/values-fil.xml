@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mb_activity_title_step_back_side">Likurang bahagi</string>
+    <string name="mb_activity_title_step_front_side">Harapang bahagi</string>
+    <string name="mb_autofocus_fail">Hindi maipokus ang camera. Subukang mag-scan sa ilalim ng ibang ilaw.</string>
+    <string name="mb_blinkid_back_instructions_barcode">I-scan ang barcode</string>
+    <string name="mb_blinkid_camera_flip_document">Baligtarin ang dokumento</string>
+    <string name="mb_blinkid_document_not_fully_visible">Panatilihing ganap na nakikita ang dokumento</string>
+    <string name="mb_blinkid_document_too_close_to_edge">Iurong ang dokumento mula sa gilid</string>
+    <string name="mb_blinkid_front_instructions">I-scan ang unahang bahagi ng dokumento</string>
+    <string name="mb_camera_not_allowed">Hindi pinahihintulutan ang camera ng mga setting ng pahintulot.</string>
+    <string name="mb_camera_not_ready">Hindi pa handa ang camera.</string>
+    <string name="mb_camera_permission_required">Kinakailangan ang pahintulot ng camera.</string>
+    <string name="mb_custom_ui_forbidden">Hindi pinahihintulutan ng lisensya ang pasadyang aktibidad ng camera!</string>
+    <string name="mb_data_not_match_msg">Simulan ang proseso ng pag-i-scan.</string>
+    <string name="mb_data_not_match_retry_button">Subukan ulit</string>
+    <string name="mb_data_not_match_title">Hindi tugma ang mga gilid</string>
+    <string name="mb_dismiss_error_dialog">Isara</string>
+    <string name="mb_enable_camera">I-enable ang camera</string>
+    <string name="mb_enable_permission_help">Ililipat ka ngayon sa mga setting ng pahintulot kung saan mo bibigyan ng pahintulot ang app.</string>
+    <string name="mb_enable_permission_help_instant_app">Mangyaring pahintulutan ang camera sa mga setting ng pahintulot ng app.</string>
+    <string name="mb_error_camera_high">Ilapit pa</string>
+    <string name="mb_error_camera_near">Ilayo pa</string>
+    <string name="mb_error_initializing">Hindi nabuksan ang native library. Pakitingnan ang ADB error log para sa higit pang detalye.</string>
+    <string name="mb_feature_unsupported_android_version">Suportado ang feature para sa Android 2.1 at mas bago</string>
+    <string name="mb_feature_unsupported_autofocus">Hindi suportado ang feature na ito sa camera na walang autofocus</string>
+    <string name="mb_feature_unsupported_device">Hindi suportado ang feature na ito dahil sa teknikal na katangian ng iyong device</string>
+    <string name="mb_flashlight_warning_message">Mag-ingat sa flashlight glare.\nDahan-dahang ilipat ang iyong ID sa paligid upang maiwasan ito.</string>
+    <string name="mb_invalid_license">Hindi wastong key ng lisensya! Pakitingnan ang ADB error log para sa higit pang detalye.</string>
+    <string name="mb_licence_check_device_offline">Suriin ang koneksiyon sa internet</string>
+    <string name="mb_licence_check_failed">Mali sa network</string>
+    <string name="mb_licence_locked">Hindi magagamit ang pag-scan</string>
+    <string name="mb_recognition_timeout_dialog_message">Hindi mabasa ang dokumento. Pakisubukan ulit.</string>
+    <string name="mb_recognition_timeout_dialog_retry_button">Subukan ulit</string>
+    <string name="mb_recognition_timeout_dialog_title">Hindi matagumpay ang pag-scan</string>
+    <string name="mb_splash_msg_id_back">Likurang bahagi ng ID card</string>
+    <string name="mb_splash_msg_id_front">Harapang bahagi ng ID card</string>
+    <string name="mb_tooltip_back_id">Ilagay ang <b>LIKURANG BAHAGI</b> ng ID card sa loob ng frame at hintayin ang awtomatikong pag-scan</string>
+    <string name="mb_tooltip_front_id">Ilagay ang <b>HARAPANG BAHAGI</b> ng ID card sa loob ng frame at hintayin ang awtomatikong pag-scan</string>
+    <string name="mb_tooltip_glare">Dahan-danan alisin ang ID upang maiwasan ang pagkakaroon ng kislap.</string>
+    <string name="mb_unsupported_document_message">I-scan ang unahang bahagi ng isang suportadong dokumento.</string>
+    <string name="mb_unsupported_document_title">Hindi nababasa ang dokumento</string>
+    <string name="mb_warning_title">Babala</string>
+</resources>
